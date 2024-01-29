@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "658f47cbc53bac51",
+    "type": "split",
+    "children": [
+      {
+        "id": "320b04c6a63acf55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7822b581f310544",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bee6ba5ea06c58f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f73a1fd96865bb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03a0630c4c5d3894",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d9f12e48cde7ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Chapter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73b6f9a2b8245865",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfbb5894936a9ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b72ab1817520ed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598f2916892a23a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5254d29e95e32f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "468aab99a555eed5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f843a671da6b1900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03a0630c4c5d3894",
+  "lastOpenFiles": [
+    "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+    "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/07-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/06-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-5.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/05-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/04-chapter.md",
+    "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Swords & Sorcery Fantasy Romance Deep Dive.md",
+    "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
+    "Marketing/Pillar Approach/Pillar Posts Outline/Trope Pillar Posts Outline.md",
+    "Marketing/Pillar Approach/Possible questions and approaches/Romance fiction questions.md",
+    "Marketing/Pillar Approach/Possible questions and approaches/Pillar Post Strategy Ideas.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/03-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-version-2.epub",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-test.epub",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/styling.css",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the_heist.png",
+    "Publishing/Books/Sarah Rosewood/Book 1 - The Heist/terminal-commands.md",
+    "Publishing/Books/Sarah Rosewood/Book 1 - The Heist",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 1/epub/undercover_obsessions_book_1_version_3_0.epub",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/trigger-warning.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/metadata.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/33-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/32-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/31-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/30-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/29-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/28-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/27-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/26-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/25-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 1/epub",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 1",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist",
+    "Publishing/Books/Sarah Rosewood/Book 1 - The Heist/Version 2/the-heist-test.epub",
+    "Marketing/Resources/Random attachments/Pasted Image 20231207091206_709.png",
+    "Marketing/Resources/Random attachments/Pasted Image 20231207090848_945.png",
+    "Pasted Image 20231207090848_945.png",
+    "Pasted Image 20231207091206_709.png",
+    "Marketing/Resources/Random attachments/Pasted image 20231127104925.png",
+    "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
+    "Marketing/Resources/Random attachments/Pasted image 20231127073437.png",
+    "Marketing/Resources/Random attachments/Pasted image 20231127072300.png",
+    "Pasted image 20231127104925.png"
+  ]
+}

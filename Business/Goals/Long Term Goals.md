@@ -1,0 +1,8 @@
+- To create the bestselling books using AI that readers love and can't wait to read.
+- To create enough income to fly Ben to Liverpool to celebrate.
+- To have a SeaCrow safari in South Africa.
+- To become the leading experts in using AI to create long-form text.
+- Sell SeaCrow for a disgusting amount of money, or create income so great that selling is not an option.
+- Give back to the writing community.
+- Ben to buy a vacation house in Cape Town. (edited)
+- Ben to host a braai for the SeaCrow staff.

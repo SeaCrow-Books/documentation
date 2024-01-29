@@ -1,0 +1,1 @@
+Stranger sex, cute meet in a coffee shop, leads to sex, walks away not knowing the person. 

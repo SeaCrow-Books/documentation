@@ -1,0 +1,4 @@
+- Fully edit and republish The Heist
+- Fully edit and publish The Hideout
+- Begin planning The Hunt
+- Fine tune and test writerGPT

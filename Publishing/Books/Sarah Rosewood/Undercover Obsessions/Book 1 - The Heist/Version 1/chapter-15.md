@@ -1,0 +1,67 @@
+## Bella
+ 
+The limousine glides through the country lanes, a sleek chariot ferrying us to the ball. The interior is awash with soft, muted light, casting ethereal shadows on Luca's handsome face. We're sitting across from each other, a bottle of champagne chilling between us. There's an air of anticipation, a thrill of what lies ahead. But alongside that, there's a palpable tension. A silent acknowledgment of the danger we're about to walk into, the risks we're about to take.
+ 
+He leans over, pouring us each a glass of champagne. His movements are smooth and practiced. He's a man who's used to this kind of luxury, this kind of lifestyle. Across from me, Luca is an embodiment of elegance and masculinity in his finely tailored dress suit. The suit, custom-made by some sought-after Italian tailor fits him like a glove. It accentuates his broad shoulders, the narrow waist, and the formidable length of his legs. It's impeccably pressed, each crease and seam sharp and precise. The suit pants follow the long lean line of his legs, revealing the strength hidden beneath the refined surface. His raven hair is styled neatly, a few rebellious strands falling carelessly over his forehead, adding a touch of boyish charm to his otherwise manly demeanor. His blue eyes, a shade darker than usual under the muted light of the limo, sparkle with anticipation.
+ 
+Despite the night's tension, there's a confidence in his posture, an inherent grace in his movements that's utterly captivating. He's every inch the charismatic businessman - sophisticated, powerful, and incredibly attractive.
+ 
+As he lifts his champagne glass towards me, a soft glint of light catches on his watch, a Patek Philippe, if I'm not wrong, studded with diamonds. It's the kind of understated luxury that only someone with his taste would appreciate.
+ 
+Looking at him, I can't help but feel a wave of attraction wash over me. There's something about the way the suit enhances his powerful physique, the way his eyes hold mine with an intensity that's almost palpable. He looks every inch the part he's playing tonight: a wealthy businessman and my fake husband.
+ 
+The limo comes to a halt and we find ourselves in front of an architectural marvel, the majestic manor house standing resplendent in the soft twilight. It's a spectacular example of Jacobean architecture, exuding regal elegance and timeless grandeur. The vast edifice, a magnificent sprawl of red brick and stone, is adorned with grand mullioned windows that give the building an ethereal glow under the setting sun's soft touch. The intricate carvings on the stonework tell tales of a bygone era, adding a sense of mystique to the place.The grand entrance, an arched portal beneath an elaborate stone coat of arms, is flanked by stoic stone lions on pedestals, welcoming us with their silent roars. A broad set of steps, worn smooth over centuries, leads up to the large wooden doors, their dark oak polished to a high sheen. Stretching out around the manor are perfectly manicured gardens, their lush greenery perfectly maintained and arranged in intricate patterns, adding a touch of natural beauty to the manor's grandeur.
+ 
+We step out of the limo, the cool evening breeze brushing against our faces as we take in the imposing spectacle in front of us. The manor stands like a silent sentinel, its grandeur telling tales of the history and wealth contained within its walls. It's the perfect setting for tonight's events.
+ 
+We ascend the broad stone steps, our hands lightly brushing against the smooth, cold surface of the grand marble balustrade. The sweet strains of a symphony orchestra playing a hauntingly beautiful melody waft out from within, wrapping the manor in an enchanting lullaby. We pause at the top of the stairs, a moment of hesitation washing over us before we cross the threshold. The door before us is wide and imposing, adorned with intricate carvings that whisper tales of old. A well-dressed butler, prim and proper in his crisp suit, steps forward with a professional smile gracing his features. His white gloves add an air of formality to his demeanor. He extends his gloved hand, a silent request for our invitation. I glance at Luca, feeling a rush of adrenaline surging through my veins. This is it. No turning back now.
+ 
+With a nod from Luca, I hand over our gilded invitation card. The butler's keen eyes scan the invitation, and the world seems to pause for a heart-stopping moment. Then, with a courteous bow of his head, he steps aside, opening the doorway to a world of glamour and grandeur, of danger and deception.
+ 
+"Welcome," he intones with a practiced grace, gesturing for us to enter.
+ 
+Stepping through the grand doors, we find ourselves in the opulent entryway of the stately home. The sweeping double staircase with intricately carved wooden railings is the centerpiece, while the high vaulted ceilings, embellished with delicate plasterwork, showcase a magnificent chandelier, its glittering crystals casting a warm, welcoming light. Underneath this magnificent light, elegantly dressed men and women converse in hushed voices. Men in sharp tuxedos, women in a sea of silk, satin, and jewels create a vibrant tapestry of colors. Their laughter and chatter create a pleasing symphony of human connection, softened by the grandeur of the surroundings. Off to one side, a butler glides through the sea of guests, a silver tray bearing a collection of champagne flutes in his hands. The golden liquid inside the glasses twinkles, a match to the sparkling jewels and bright eyes of the guests.
+ 
+Luca and I move towards him. With an impeccable sense of timing, he presents the tray, allowing us to each take a glass. The cool flute feels comforting in my hand, the effervescence of the champagne a mirror to the palpable excitement in the room.
+ 
+As I bring the glass to my lips, my eyes meet Luca's. There's a shared understanding, a shared purpose in that glance. We both know what's at stake here. And yet, we also know how to enjoy the moment. Our eyes lock, and we share a conspiratorial smile, a brief moment of camaraderie in this den of opulence and ostentation.
+ 
+"Remember to stay calm; just play the part," Luca whispers in my ear, his warm breath against my skin sending a tingle down my spine. I smile in response, my heart pounding with anticipation.
+ 
+As we step into the main ballroom, I'm taken aback by its grandeur. It is a breathtaking spectacle of beauty and elegance. The room is large and rectangular, the ceiling so high it feels like it touches the sky. The painted ceiling, a masterpiece of craftsmanship, is adorned with elaborate patterns and gilded detailing. Long, tall windows line one side of the room, letting in the soft evening light, their curtains drawn back to reveal the manicured gardens beyond. In the far corner of the room, a four-piece string quartet is playing, the sweet melodies of a waltz filling the air, creating a pleasant backdrop to the ongoing conversations. Distinguished guests, all in their finest attire, are milling about, their eyes bright with excitement and the thrill of the occasion.
+ 
+My gaze is drawn to the grand fireplace at the end of the room, a marvel of marble and craftsmanship. And above it hangs the painting. Van Gogh's 'The Poppy Flowers', a breathtaking swirl of vibrant colors, bold strokes, and emotional depth. Even from this distance, it captures my attention, holding it, demanding to be admired. For a moment, I forget about the task at hand, lost in the brush strokes of a master. It's easy to see why it's worth so much and has drawn us all here tonight. But Luca's hand tightens around mine, a gentle reminder of our purpose, and I snap back to reality.
+ 
+We go to the painting, blending in with the other guests. As Luca snaps some photographs on his phone, subtly angled to avoid attracting attention, I lean in close, studying the security measures in place.
+ 
+Leaning into Luca, I whisper in his ear. "There are infrared beams protecting the painting, along with motion sensors. Standard stuff but advanced." My heart races as I bluff my way through, the adrenaline of the deception, of the danger, coursing through my veins.
+ 
+Luca looks down at me, concerned, etching lines into his handsome face. "Will it be a problem?" he asks, his voice barely audible above the hum of the crowd.
+ 
+I shake my head. "No," I say, forcing confidence into my voice. "If I am honest, I expected more. It's all controlled from a central server. If I can break into that, it's game over."
+ 
+Luca and I weave our way through the crowded ballroom. Our destination is a less glamorous part of the manor, a lengthy, dimly-lit corridor adorned with old family portraits, their eyes seemingly following us as we move along. The wallpaper is faded and peeling at the edges, the carpet a dull, worn-out red. It's a stark contrast to the vibrant ballroom we just left behind.
+ 
+A door at the end of the hallway leads to a utility room, acting as the back entrance of the manor. The room smells slightly dank and musty, a sign of less frequent use. Its tiled floor faded and worn, betraying years of foot traffic, the grout between the tiles stained with age.
+ 
+We slip into the room, unnoticed by the other guests, and I kneel to inspect the lock on the door. It's a digital touchpad, the sleek design contrasting starkly with the antiquity of the room.
+ 
+Luca watches me with anticipation. "Can you crack it?" he asks, his voice low and anxious.
+ 
+"Yeah," I respond, glancing at him over my shoulder. My fingers graze over the touchpad, feeling the cold, smooth surface. "But I'll need my laptop."
+ 
+We blend into the crowd after capturing a few quick snapshots of the door and the small room. The transition from the dusty, worn-out back corridor into the vibrant ballroom is abrupt, almost like stepping from one world into another. The lavish ballroom buzzes with almost palpable energy, the string quartet's music filling the space as guests laugh, chat and dance under the glow of elaborate chandeliers.
+ 
+Luca places a hand on the small of my back, guiding me towards the edge of the ballroom. He leans in, his warm breath brushing against my ear as he asks, "Seen everything you need to see?" His voice is barely audible over the symphony of chatter and music.
+ 
+I nod in response, meeting his gaze. "Yes," I confirm, smiling.
+ 
+A wave of relief washes over me. The tense anticipation that had been building within me gradually dissipates, replaced by a sense of satisfaction. We'd managed to gather crucial information without drawing attention to ourselves - our first test was a success.
+ 
+Luca seems to share my relief, the tension visibly leaving his body as we make our way to the refreshment table. A butler walks past and he grands two flutes of champagne, handing one to me. “Might as well enjoy ourselves,” he says with a smile. The bubbly liquid glittering under the ornate lights. I take a sip, the cool, crisp taste dancing on my tongue as we retreat to a quieter corner of the room to relax and enjoy the rest of the evening. The music, the laughter, the sparkling drinks - for a moment, it feels like we're just another couple at the ball, and I can't help but wish that were true.
+ 
+A wave of calm washes over me, diluting the stress of the evening into a hazy afterthought. I glance at Luca, drinking in his presence. The tailored suit accentuates his well-built physique, his blue eyes sparkle with an intensity that I find irresistible. Even in the midst of all this chaos, he stands as my anchor. My partner, my protector, my... friend? The word feels too feeble to describe what he has become to me tonight.
+ 
+The string quartet transitions into a slow, rhythmic melody, a sweet serenade that weaves through the air and enchants the room. Unthinkingly, almost as if an invisible string is pulling me, I reach out my hand to him.
+ 
+"Let's dance," I whisper, hoping my voice doesn't betray the nervous flutter in my heart. I hold out my hand to him.

@@ -1,0 +1,74 @@
+
+other posts when researching this was just best ofs, recommendations, top 
+
+- Miscellaneous Questions
+	- [ ] What is Romance with HEA (happily ever after)
+	- [ ] What does HEA and HFN stand for? (happy-for-now)
+	- [ ] What does OTP mean in a book? (one true pair)
+	- [ ] how long should a fantasy romance be
+	- [ ] what makes a fantasy romance
+	- [ ] how do you plot a fantasy romance
+	- [ 
+
+- ### Fantasy Romance 
+	- [ ] Fantasy Romance
+		- [ ] What is considered Fantasy Romance
+		- [ ] 
+	- [ ] Epic Fantasy / High Fantasy Romance
+	    - [ ] What is High Fantasy Romance
+	    - [ ] What is Epic Fantasy Romance
+	    - [ ] What is the most Romanctic Fantasy
+	    - [ ] What is Dark Fantasy Romance
+	- [ ] Historical Fantasy Romance
+		- [ ] what is considered historical fantasy romance
+		- [ ] who is the best historical fantasy writer
+	- [ ] Contemporary Fantasy Romance 
+	    - [ ] what is considered 
+	- [ ] Urban Fantasy Romance 
+		- [ ] what is 
+		- [ ] what are the rules of
+		- [ ] what is the difference between urban fantasy romance and paranormal romance
+	- [ ] Elfpunk Fantasy Romance 
+	    - [ ] 
+	- [ ] Cozy Fantasy Romance 
+		- [ ] 
+	- [ ] Swords & Sorcery Fantasy Romance 
+		- [ ] 
+	- [ ] Fairy Tale Fantasy Romance 
+		- [ ] 
+	- [ ] Fae Fantasy Romance 
+		- [ ] 
+	- [ ] Witch/Wizard Fantasy Romance 
+		- [ ] 
+
+- ### Sci-Fi Romance
+	- [ ] Space Opera Romance 
+		- [ ] 
+	- [ ] Alien Romance
+		- [ ] 
+	- [ ] Dystopian/Utopian Romance 
+		- [ ] 
+	- [ ] Time Travel Romance 
+	    - [ ] 
+	- [ ] Steampunk Romance 
+	    - [ ] 
+	- [ ] Cyberpunk Romance 
+	    - [ ] 
+	- [ ]  Robot/Ai Romance 
+		- [ ] 
+
+- ### Paranormal Romance
+	- [ ] Vampire Romance 
+		- [ ] 
+	- [ ] Ghost Romance 
+		- [ ] 
+	- [ ] Werewolf and Shapeshifter Romance 
+		- [ ] 
+	- [ ]  Angel and Demon Romance 
+		- [ ] 
+	- [ ] Sorcerer Opera Romance 
+		- [ ] 
+	- [ ] Psychic Romance
+		- [ ] 
+	- [ ] Zombie Romance 
+	    - [ ] 

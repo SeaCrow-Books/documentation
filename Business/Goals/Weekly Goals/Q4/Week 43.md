@@ -1,0 +1,3 @@
+- As many blog posts written as possible without going insane.
+- As much of the Book 1 written as possible without going insane.
+- (optional) Outline marketing strategy.

@@ -1,0 +1,2 @@
+- Publish Book 1
+- Optimize GPTs and workflow

@@ -1,0 +1,3 @@
+- Book 1 edited, temp cover and in epub format.
+- Book 2 edited by Gary.
+- Pretty up the blog and sort feature post.
