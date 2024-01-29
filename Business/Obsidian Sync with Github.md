@@ -9,8 +9,7 @@
 	2. Then move into the correct branch: `git branch -M main`
 	3. Then push: `git push -u origin main`
 - Now the next step is to add the 'git' community plugin to Obsidian.
-- This should now work,
+- This should now work, but it can be a bit messy. 
+	- You might have to set the custom base path to match your local folder setup. 
 
 
-
-git init git commit -m "first commit" git branch -M main git remote add origin [https://github.com/SeaCrow-Books/documentation.git](https://github.com/SeaCrow-Books/documentation.git "https://github.com/SeaCrow-Books/documentation.git") git push -u origin main (edited)
