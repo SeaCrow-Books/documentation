@@ -19,3 +19,4 @@
 19. Lean into chat. 
 20. Systems are our superpower, not technology. 
 21. We build worlds. 
+22. We love GitHub.
