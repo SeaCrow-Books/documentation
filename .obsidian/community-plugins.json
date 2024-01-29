@@ -2,5 +2,6 @@
   "media-extended",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-git"
 ]

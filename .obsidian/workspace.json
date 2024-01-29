@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md",
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md",
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/terminal-commands.md"
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md"
               }
             }
           }
@@ -140,8 +140,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
