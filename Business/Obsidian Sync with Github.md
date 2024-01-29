@@ -10,6 +10,7 @@
 	3. Then push: `git push -u origin main`
 - Now the next step is to add the 'git' community plugin to Obsidian.
 - This should now work, but it can be a bit messy. 
-	- You might have to set the custom base path to match your local folder setup. 
+	- You might have to set the custom base path to match your local folder setup.
+	- You may find you have a problem with user acceptance, this is the solution - [switching-remote-urls-from-https-to-ssh](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh "https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh")
 
 
