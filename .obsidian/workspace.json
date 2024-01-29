@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Rules.md",
+                "file": "Business/Obsidian Sync with Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Rules.md",
+                "file": "Business/Obsidian Sync with Github.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Rules.md",
+                "file": "Business/Obsidian Sync with Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Rules.md"
+                "file": "Business/Obsidian Sync with Github.md"
               }
             }
           }
@@ -165,11 +165,11 @@
   },
   "active": "776ddd1ea5dfd113",
   "lastOpenFiles": [
+    "Business/Rules.md",
     "Pillar post information gathering.md",
     "Business/Obsidian Sync with Github.md",
     "Publishing/Resources/Ebook Production/Epub Production Guide.md",
     "Untitled",
-    "Business/Rules.md",
     "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/07-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/06-chapter.md",
