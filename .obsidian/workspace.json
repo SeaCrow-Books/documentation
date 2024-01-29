@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "776ddd1ea5dfd113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+                "file": "Business/Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+                "file": "Business/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md"
+                "file": "Business/Rules.md"
               }
             }
           }
@@ -150,10 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7822b581f310544",
+  "active": "776ddd1ea5dfd113",
   "lastOpenFiles": [
-    "Business/Rules.md",
+    "Pillar post information gathering.md",
+    "Business/Obsidian Sync with Github.md",
     "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+    "Untitled",
+    "Business/Rules.md",
     "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/07-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/06-chapter.md",
@@ -182,13 +198,10 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/30-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/29-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/28-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/27-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/26-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 1/epub",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 1",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist",
-    "Publishing/Books/Sarah Rosewood/Book 1 - The Heist/Version 2/the-heist-test.epub",
     "Marketing/Resources/Random attachments/Pasted Image 20231207091206_709.png",
     "Marketing/Resources/Random attachments/Pasted Image 20231207090848_945.png",
     "Pasted Image 20231207090848_945.png",
