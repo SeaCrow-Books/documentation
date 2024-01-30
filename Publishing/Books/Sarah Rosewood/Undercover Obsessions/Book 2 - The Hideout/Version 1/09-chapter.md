@@ -1,33 +1,25 @@
-#edited/gary 
+# Chapter 9
 ## Bella
  
-Stepping into the cool confines of the farmhouse, I'm momentarily enveloped in a heavy stillness. I glance back to see Luca still outside. There's a certain tension to his posture, unrest that stirs unease within me. I put the bread on the wooden countertop beside the window that overlooks the rolling hills. With no fridge, the milk won't last more than a day, but it's a fact of our simple existence that I've come to accept.
+Stepping into the cottage, I'm momentarily enveloped in a heavy stillness. I glance back to see Luca still outside. There's a certain tension to his posture, unrest that stirs unease within me. I put the bread on the wooden countertop. With no fridge, the milk won't last more than a day, but it's a fact of our simple existence that I've come to accept.
  
-The front door creaks open, and I turn to find Luca standing in the doorway, an almost spectral figure against the light streaming in from outside. There's a certain roughness to his appearance today that I haven't seen before. His hair, usually neatly combed back, is a tousled mess as if he's been running his fingers through it repeatedly. His shirt hangs open, revealing a white undershirt, and his clean jeans are more crumpled than usual. His usually vibrant eyes seem cloudy, darting around the room as if searching for something elusive. His hands, usually so steady and controlled, keep rubbing at his face in a restless motion, mirroring the disquiet that I sense is coursing through him. He looks like a man on edge, frayed at the seams and on the brink of unraveling.
+The door creaks open, and I turn to find Luca standing in the doorway, an almost spectral figure against the light streaming in from outside. There's a certain roughness to his appearance today. His hair, usually neatly combed back, is a tousled mess as if he's been running his fingers through it repeatedly. His shirt hangs open, revealing a white undershirt, and his clean jeans are more crumpled than usual. His usually vibrant eyes seem cloudy, darting around the room as if searching for something elusive. His hands, usually so steady and controlled, keep rubbing at his face in a restless motion, mirroring the disquiet that I sense is coursing through him.
  
 "Luca," I say.
  
-There's a heavy sigh from him, and he steps further into the house, the door clicking shut behind him. The sense of disquiet only grows stronger, adding another layer to the thick silence in the air. The quiet of the house amplifies every sound: the soft padding of his steps, the faint rustling of his clothes, the almost imperceptible sigh that slips from him. 
-
-He paces the room like a caged animal, each stride taut with an agitation that's unlike him. The comfortable silence we usually share is replaced by a heavy tension between us.
+There's a heavy sigh from him, and he steps further into the house, the door clicking shut behind him. The sense of disquiet only grows stronger, adding another layer to the thick silence in the air. The quiet of the house amplifies every sound: the soft padding of his steps, the faint rustling of his clothes, the almost imperceptible sigh that slips from him. He paces the room like a caged animal, each stride taut with an agitation that's unlike him. 
  
 He stops his pacing and turns to me. "Bella," he begins, his voice thick, "I want you."
  
 I hesitate. I take a step back, drawing a deep breath. "Luca," I say, "Maybe we should talk instead." My voice is steady despite the flutter of uncertainty in my chest.
  
-“It wasn’t a question, we fuck. And it’s sir, right?”
+“It wasn’t a question, we fuck. And it’s sir, remember?”
  
-Luca reaches out his hand, and his fingers, strong and assertive, wrap around mine, pulling me with purpose. I glance up at him, searching his face, trying to decipher the thoughts swirling in his intense eyes. As we approach the bedroom, a multitude of emotions flood through me. Part of me yearns for Luca's dominant side, which makes me feel wanted and cherished in a way I'd never felt before. But there's an edge to him lately, a sharpness that wasn't there before, and it makes my heart race for a different reason.
+Luca reaches out his hand, and his fingers, strong and assertive, wrap around mine, pulling me with purpose. I glance up at him, searching his face, trying to decipher the thoughts swirling in his intense eyes. As we approach the bedroom, a multitude of emotions flood through me. The soft glow from the bedside lamp paints the room in a muted golden hue, casting shadows that dance and shift with our movements. He pauses at the bedroom threshold, turning to face me. I search his eyes again, willing them to reveal his intentions. For a moment, we're locked in this dance of uncertainty. The weight of our shared history and the current tensions hangs thick between us. 
  
-The soft glow from the bedside lamp paints the room in a muted golden hue, casting shadows that dance and shift with our movements. The familiar scent of our shared space wafts around, comforting yet tinged with the electric charge of the unknown. 
-
-He pauses at the bedroom threshold, turning to face me. I search his eyes again, willing them to reveal his intentions. For a moment, we're locked in this dance of uncertainty. The weight of our shared history and the current tensions hangs thick between us. 
+“Undress and get on the bed,” Luca says, his voice is stern, his eyes fixed on mine.
  
-“Undress and get on the bed,” Luca says, his voice is stern, his eyes fixed firmly on mine.
- 
-The authority in his voice, something I've come to recognize and respond to, sends a shiver down my spine. There's an edge to it, the same harshness from the previous time.
- 
-I pause, my eyes darting from him to the bed, as I process his demand. He waits, patient but unwavering, watching me with an intensity that I can't quite decipher. Swallowing hard, I begin to unbutton my blouse, my fingers trembling with a mix of anticipation and unease. As the fabric falls away, I can feel the cool air against my skin, making me even more aware of my vulnerability. I shiver as I slide my skirt down, feeling it pool at my feet. I step out of it, leaving me in just my underwear. A brief glance at Luca tells me he expects more. Taking a deep breath, I reach behind me to unclasp my bra, letting it fall to the floor. I slip out of my panties, feeling the room's coolness envelop me.
+The authority in his voice, something I've come to recognize and respond to, sends a shiver down my spine. There's an edge to it, the same harshness from the previous time. I pause, my eyes darting from him to the bed, as I process his demand. He waits, patient but unwavering, watching me with an intensity that I can't quite decipher. Swallowing hard, I begin to unbutton my blouse, my fingers trembling with a mix of anticipation and unease. As the fabric falls away, I can feel the cool air against my skin, making me even more aware of my vulnerability. I shiver as I slide my skirt down. I step out of it, leaving me in just my underwear. A brief glance at Luca tells me he expects more. Taking a deep breath, I reach behind me to unclasp my bra, letting it fall to the floor. I slip out of my panties, feeling the room's coolness envelop me.
  
 I am entirely exposed, my skin tingling with a blend of nerves and anticipation. I move to the bed. Lying down, I can feel the rough sheets beneath me, contrasting with the unease coiling in my stomach. I keep my eyes on Luca, searching for any sign of the tenderness I once knew.
  
