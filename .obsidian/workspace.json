@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Obsidian Sync with Github.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Obsidian Sync with Github.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Obsidian Sync with Github.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Obsidian Sync with Github.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-8.md"
               }
             }
           }
@@ -165,9 +165,9 @@
   },
   "active": "776ddd1ea5dfd113",
   "lastOpenFiles": [
+    "Business/Obsidian Sync with Github.md",
     "Business/Rules.md",
     "Pillar post information gathering.md",
-    "Business/Obsidian Sync with Github.md",
     "Publishing/Resources/Ebook Production/Epub Production Guide.md",
     "Untitled",
     "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
