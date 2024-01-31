@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "320b04c6a63acf55",
+        "id": "4fc1710658df8225",
         "type": "tabs",
         "children": [
           {
-            "id": "a7822b581f310544",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "776ddd1ea5dfd113",
+            "id": "02904c79a9954e47",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+                "file": "Business/Business Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
+                "file": "Business/Business Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md"
+                "file": "Business/Business Ideas.md"
               }
             }
           }
@@ -159,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "776ddd1ea5dfd113",
+  "active": "03a0630c4c5d3894",
   "lastOpenFiles": [
     "Business/Obsidian Sync with Github.md",
     "Business/Rules.md",
