@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Publishing/Resources/Ebook Production/Epub Production Guide.md"
+              }
             }
           }
         ],
