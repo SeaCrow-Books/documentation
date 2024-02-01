@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
+                "file": "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Chapter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
+                "file": "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
+                "file": "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md"
+                "file": "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "02904c79a9954e47",
   "lastOpenFiles": [
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-10.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-10.md",
     "Business/Obsidian Sync with Github.md",
     "Business/Rules.md",
     "Pillar post information gathering.md",
