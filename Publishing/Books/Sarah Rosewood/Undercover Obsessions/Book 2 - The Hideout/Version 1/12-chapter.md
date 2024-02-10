@@ -17,29 +17,29 @@ I switch off the car and sit in silence for a moment, collecting my thoughts. Be
  
 "What happened, Luca?" she asks, rushing over to me. Her hands grasp my soaked shoulders, her eyes searching mine for answers.
  
-"The police... I... saw them in the village," I stammer out my words, they are disjointed by the panic racing through my veins. Bella's eyes widen, but she remains calm, her steady gaze anchoring in my turbulent sea of fear.
+"The police... I... saw them in the village," I stammer out my words, they are disjointed by the panic racing through my veins. Bella's eyes widen, but she remains calm.
  
 "Luca. Calm. Breathe. Tell me what you saw.”
  
-“A copper was talking to one of the locals; he’s a handyman. He’s done some work in the cottage.”
+“A copper was talking to one of the locals; he’s a handyman. David or Dewi I think he's called, I can't rememeber. He’s done some work in the cottage.”
  
-“Ok.” Bella takes a breath. “Tell me more. I need details. One police officer? Uniformed? Was there just one marked car?”
+“Ok.” Bella takes a breath. “Tell me more. I need details. Think carefully. One police officer? Uniformed? Was there just one marked car? This is important.”
  
 “Err… yeah.” Bella’s questions catch me off guard.
  
 “You sure,” she says. “Think carefully. It’s important. A single uniformed officer, no other cars, just him."
 
-"Yes," Is say.
+"Yes," I say.
 
-"Are you sure? Where there any other cars nearby, ones you have not seen before? It would have been in some kind of estate car, probably dark colored, but powerful.”
+"Are you sure? Where there any other cars nearby, ones you have not seen before? It would have unmarked, probably some kind of estate car, dark colored, but powerful.”
  
-I look at Bella. Her eyes hold mine, a look of calm. A sense of warmth rolls over me. “Yeah, just a single copper. One police car.” I pause and think, replying the memory in my mind. "No other cars, I am certain."
+I look at Bella. Her eyes hold mine, a look of calm. A sense of warmth rolls over me. I take a breath and allow my thoughts to calm. “Yeah, just a single copper. One police car.” I pause and think, replying the memory in my mind. "No other cars, I am certain."
  
 Bella’s hand drops from my shoulder. She seems to relax. “That's good. There could be a hundred reasons why there's a local police officer in the village. It doesn't mean they're here for us."
  
-"But I...," I try to argue, but Bella cuts me off.
+"But I..."
  
-"Come on, Luca. Think logically," she insists. "You know this stuff. If they wanted you, wouldn't they come directly here? Wouldn't they have already knocked on our door? And they wouldn’t send a local plod who’s more used to catching lost sheep; they’d come tooled up, the full deal. Remember what happened to Bianca. They wouldn’t be taking risks. For fuck’s sake, Luca, think about it, you know this shit."
+"Come on, Luca. Think logically," she insists. "You know this stuff. If they wanted you, wouldn't they come directly here? Wouldn't they have already knocked on our door? And they wouldn’t send a local plod who’s more used to catching lost sheep. They’d come tooled up, the full deal. Remember what happened to Bianca. They wouldn’t be taking risks. For fuck’s sake, Luca, think about it, you know this shit."
  
 Her words strike me like a bolt of lightning. Yes, if they wanted me, they wouldn't wait, wouldn't lurk in the village, wouldn't have casual conversations with locals. They would be here. Her logic, her calm amidst my storm, helps to quell my raging fears. I let out a shaky breath, suddenly aware of my heart pounding.
  
