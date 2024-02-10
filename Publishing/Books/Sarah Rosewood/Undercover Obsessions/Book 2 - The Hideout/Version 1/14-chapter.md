@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 14
 ## Luca
  
 The warm glow of candlelight bathes the kitchen. I hold a mug, its edges worn and chipped. It's brimming with whiskey. It's late, and the house has slipped into a slumber. Bella is asleep. I rose from the warmth of the bed when she fell asleep, a restlessness gnawing at me, refusing to let me sleep.
