@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 12
 ## Luca
  
 Rain drums against the car's roof, the rhythm creating a melancholic soundtrack to my somber thoughts. Each droplet splattering against the windscreen seems to echo the mounting tension coiling within me. I grip the steering wheel tighter, my knuckles white against the worn leather. My mind is a whirlwind, a chaotic mix of desperation, fear, and loss. Once comfortably within my grasp, control now feels like a slippery eel wriggling out of my reach.
