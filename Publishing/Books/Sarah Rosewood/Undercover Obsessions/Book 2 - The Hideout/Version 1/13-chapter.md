@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 13
 ## Bella
  
 I tuck my knees closer to my chest, wrapping my arms around them, as if trying to hold together the fragments of my own breaking heart. The room, though familiar, feels cold and distant, and the silence is almost suffocating. Each breath I take is a sharp reminder of the growing chasm between Luca and me. The man I thought I knew, whose love and strength had been my anchor, is slipping away right before my eyes. 
