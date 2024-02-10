@@ -1,25 +1,17 @@
-#edited/gary 
+# Chapter 10
 ## Luca
 
 My hands move in the soapy cold water, scrubbing away at the remnants of our meal. The rhythmic sound of the scrubbing brushes against the silence of the farmhouse, the only noise apart from my breathing. Bella is sitting at the kitchen table, a worn novel in her hands. I fish out a large knife from the depths of the sink, grabbing the handle. 
 
-The tranquility is punctured by the murmur of voices from outside. 
+The tranquility is punctured by the murmur of voices from outside. The sound is faint but unmistakable. I freeze. For a moment, I convince myself that it's just the wind playing tricks on my already stressed mind. But then it becomes louder. There are people outside. My eyes flick to Bella. She is sitting motionless, a look of fear on her face. I look to the window, peering into the evening light, straining to catch a glimpse of our unexpected visitors. My hand is clenched around the edges of the sink, the cold porcelain biting into my skin. I take a deep breath, forcing myself to calm down. 
 
-The sound is faint but unmistakable against the quiet backdrop. I freeze, the soapy dish in my hand forgotten, my heart pounding. For a moment, I convince myself that it's just the wind playing tricks on my already stressed mind. But then it becomes louder. There are people outside.
-
-My eyes flick to Bella. She is sitting motionless, a look of fear on her face. I look to the window, peering into the evening light, straining to catch a glimpse of our unexpected visitors. My hands are clenched around the edges of the sink, the cold porcelain biting into my skin. I take a deep breath, forcing myself to calm down. 
-
-Bella's soft footsteps echo in the room's hush as she moves towards the window. The soft rustling of her clothes is the only sound that follows her, an intimate whisper against the underlying silence. With a grace that always catches me off-guard, she pushes aside the lace curtain, peering into the encroaching twilight. I watch her, the anxiety in my chest easing a fraction at her composed demeanor. Her body relaxes visibly and she exhales, a sigh of relief escaping her lips.
+Bella's soft footsteps echo in the room's hush as she moves towards the window. The soft rustling of her clothes is the only sound that follows her. She peers into the encroaching twilight. I watch her, the anxiety in my chest easing a fraction at her composed demeanor. Her body relaxes visibly and she exhales, a sigh of relief escaping her lips.
 
 "It's just walkers," she murmurs, her voice a soothing balm to my frayed nerves.
 
-Outside, the voices are louder, resonating with cheerful banter and light-hearted laughter. Bella turns to look at me, her face illuminated by the soft glow from the window. Her eyes, pools of warmth in the fading light, hold an understanding that eases the knot of fear in my gut. For a moment, we stand there, caught in a bubble of shared relief, the world outside fading into a distant hum.
-
-A sudden surge of anger and fear ripples through me, irrational but overwhelming. My hands clench, my fingers closing around the handle of the knife I'd been washing. It's cold, solid - a weighty reassurance in my grasp. Ignoring Bella's startled gasp, I charge out of the house, my bare feet pounding on the worn garden path. The knife gleams in the weak sunlight,.
+Outside, the voices are louder. Bella turns to look at me, her face illuminated by the soft glow from the window. Her eyes, pools of warmth in the fading light, hold an understanding that eases the knot of fear in my gut. For a moment, we stand there, caught in a bubble of shared relief, the world outside fading into a distant hum. A sudden surge of anger and fear ripples through me, irrational but overwhelming. My hands clench. I am still holding the handle of the knife I'd been washing. It's cold, solid - a weighty reassurance in my grasp. Ignoring Bella's startled gasp, I barge through the door into the gloom of the dusk, my bare feet pounding on the worn garden path. The knife gleams in the weak sunlight.
 
 Two walkers - a man and a woman, both around sixty - stand a few meters away. They're garbed in typical outdoor gear, their faces flushed from the exercise. They look innocent, completely out of place in my fear-charged reality.
-
-But I can't take chances, not anymore.
 
 "This is private property," I bark out. “Fuck off.” 
 

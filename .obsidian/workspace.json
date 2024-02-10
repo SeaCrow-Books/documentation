@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc1710658df8225",
+        "id": "af039b1f0fd8a00f",
         "type": "tabs",
         "children": [
           {
-            "id": "02904c79a9954e47",
+            "id": "aee501bf18dd8c54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02904c79a9954e47",
+  "active": "aee501bf18dd8c54",
   "lastOpenFiles": [
+    "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
     "Business/Obsidian Sync with Github.md",
     "Pillar post information gathering.md",
@@ -164,7 +157,6 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/05-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/04-chapter.md",
     "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Swords & Sorcery Fantasy Romance Deep Dive.md",
-    "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
     "Marketing/Pillar Approach/Pillar Posts Outline/Trope Pillar Posts Outline.md",
     "Marketing/Pillar Approach/Possible questions and approaches/Romance fiction questions.md",
     "Marketing/Pillar Approach/Possible questions and approaches/Pillar Post Strategy Ideas.md",
