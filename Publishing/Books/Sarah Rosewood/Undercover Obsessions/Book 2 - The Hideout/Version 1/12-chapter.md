@@ -45,12 +45,8 @@ Her words strike me like a bolt of lightning. Yes, if they wanted me, they would
  
 "You're right," I admit, the tension seeping from my body. "You're right, Bella."
  
-A faint smile appears on Bella's lips as she releases my shoulders, her eyes never leaving mine. "Now, let's get you out of these wet clothes and into a warm shower," she says, her voice filled with comfort and love.
+A faint smile appears on Bella's lips as she releases my shoulders, her eyes never leaving mine. "Now, let's get you out of these wet clothes," she says, her voice filled with comfort and love.
  
 Watching Bella turn away, I find my mind clearing. Panic recedes like a tide, replaced by cold, hard logic. A plan begins to form, tentative at first but growing in clarity and certainty.
  
-"Bella," I say, my voice steady. "We need to move. Now. Time's up." I pause, letting the words sink in. "The painting... I need to sell it. Get some money and new passports... we need to get ahead of this." I see her stiffen at my words, her back to me. I know she's processing, weighing the gravity of what I'm saying. The reality of our situation is looming larger than ever now, threatening to swallow us whole if we don't act. "We can't just react anymore," I press on, a newfound determination solidifying my voice. "We need to take control."
- 
-She remains silent, a quiet stillness enveloping the room, her back to me. The rain pounding on the windows fills the silence. She walks out of the room.
-
-
+"Bella," I say, my voice steady. "We need to move. Now. Time's up." I pause, letting the words sink in. "The painting... I need to sell it. Get some money and new passports... we need to get ahead of this." I see her stiffen at my words, her back to me. I know she's processing, weighing the gravity of what I'm saying. "We can't just react anymore. We need to take control."
