@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 19
 ## Bella
  
 I feel an odd sense of peace amidst the chaos as I lay in Luca's arms. The warmth of his body seeps through the thin cotton of our clothes. I know I must look like a wreck. My face is sticky with the remnants of my tears; my eyes must be bloodshot and swollen, my hair a disheveled mess. But at this moment, appearances are irrelevant. All that matters is the steady rhythm of his heartbeat against my back, the gentle rise and fall of his chest as he breathes. I feel his hand tracing soothing circles on my back, a silent promise of his unwavering support. In these moments of vulnerability, I am reminded of how much he cares for me. It's not through grand gestures or eloquent words, but in the way he holds me, with a gentleness that's uncharacteristic of his otherwise rough exterior.
@@ -23,7 +23,7 @@ This is Luca. My Luca. Strong, determined, fighting his own battles, yet making 
  
 I take a deep breath, pushing down the lump in my throat. "We can't let this go on, Luca. We can't live like this. We need a plan. A real, solid plan. Not just reacting to whatever comes our way. We need to take control of the situation." I pause, looking into his eyes, trying to convey the urgency, the desperation, the absolute necessity of what I'm saying. "We need to do something, Luca. Before it's too late." I watch him, waiting for him to digest my words, hoping he understands the gravity of the situation.
  
-"I agree with you, Bella," Luca says. His eyes are serious, showing none of their usual light-heartedness. "Whoever's been in the cottage knows where we are, and that's a risk we can't take. We're no longer safe here." He pauses, his fingers tracing an absent-minded pattern on the back of my hand. The slight touch is reassuring. It's a reminder that we're in this together, no matter how dire the circumstances. "We might have gotten lucky this time," he continues, a grimace pulling at his features. "It seems they were looking for something, probably information. They waited until we left, so they were probably watching the cottage. We wouldn't be having this conversation if they'd been ready for action. So, we still have some time to act, but we need to act now." He meets my eyes, his gaze firm and unwavering. "But first things first, Bella. We need to be honest with each other. No secrets, no holding back. If we survive this, we need to trust each other completely."
+"I agree with you, Bella," Luca says. His eyes are serious, showing none of their usual light-heartedness. "Whoever's been in the cottage knows where we are, and that's a risk we can't take. We're no longer safe here." He pauses, his fingers tracing an absent-minded pattern on the back of my hand. "We might have gotten lucky this time. It seems they were looking for something, probably information. They waited until we left, so they were probably watching the cottage. We wouldn't be having this conversation if they'd been ready for action. So, we still have some time to act, but we need to act now." He meets my eyes, his gaze firm and unwavering. "But first things first, Bella. We need to be honest with each other. No secrets, no holding back. If we survive this, we need to trust each other completely."
  
 I nod, heart pounding, knowing he's right.
  
@@ -36,9 +36,5 @@ Luca nods back, his hand tightening around mine. "No secrets."
 I feel a sensation stir inside me, something strange and unfamiliar in the pit of my stomach. It flutters and expands, filling me with a warmth I haven't experienced in a long time. It's a foreign feeling, an anomaly amidst the sea of fear, worry, and despair that's been my constant companion these past days. In the quiet solitude of this moment, I turn inward, focusing on the strange sensation. I try to decipher it, try to name it. It's elusive, a fleeting ghost, but it's persistent. I let it unfurl, let it wash over me. And then, with a jolt, I recognize it.
  
 Hope. It's hope.
- 
-It's a small flame in the dark, a speck of light in the shadows. It's frail, it's tender, yet it's resilient. I let it linger, let it seep into my veins. It feels strange, this hope. It's been absent for so long, I almost forgot what it felt like.
- 
-But now, here it is, slowly filling the hollow spaces, infusing a new life within me. It's terrifying and comforting, all at the same time. It's a quiet reassurance, a gentle promise of something better, something brighter.
- 
-As I lean into Luca, I bask in this newfound emotion. This hope. It's a small beacon, but it's enough. For now, it's enough.
+
+It's a small beacon, but it's enough. For now.

@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 23
 ## Bella
  
 We're sitting at the old wooden kitchen table, the steam from our mugs of tea rising in the dim morning light. Outside, the rain has finally let up. Across from me, Luca is deep in thought. I watch him as he stirs his tea, his mind elsewhere. I take in the sight of him, his tousled hair, and the way the soft morning light falls on his robust features. He looks up and our eyes meet. For a moment, we're just two people at a kitchen table, sharing a quiet morning. 
@@ -15,13 +15,9 @@ I look at Luca, really look at him. He's still there, lost in thought, his hand 
  
 Suddenly, I can't bear the silence.
  
-I reach out, clutching his hand, forcing his attention. He looks up, his brow furrowing in concern. I swallow the lump in my throat, my heart pounding. I watch Luca, his handsome face creased in concentration, his whole body taut with the tension of our predicament. I study the sharpness of his jawline, the tired creases around his eyes, and the worried furrow of his brow. Seeing him so close to breaking, I realize that I owe him the truth.
+I glance at his hand lying open on the table. I draw a deep breath and reach across the table, placing my hand on his. The sudden contact makes him look up to meet my gaze. He sees something in my eyes; I can tell. His brow furrows even more, his hand curling around mine in a reflexive gesture of comfort despite the worry in his eyes.
  
-I realize that all this time, I thought I was protecting him by lying, but in reality, I was protecting myself, trying to control an impossible situation.
- 
-The silence stretches between us, becoming an unbearable echo in the small kitchen. I glance at his hand lying open on the table. I draw a deep breath and reach across the table, placing my hand on his. The sudden contact makes him look up to meet my gaze. He sees something in my eyes; I can tell. His brow furrows even more, his hand curling around mine in a reflexive gesture of comfort despite the worry in his eyes.
- 
-"We need to talk, Luca," I say, my voice surprisingly steady. "There's something you need to know, something I should have told you long ago."
+"We need to talk, Luca," I say. "There's something you need to know, something I should have told you long ago."
  
 "What is it, Bella?" he asks, there's a tremor of apprehension in his voice.
  
@@ -29,7 +25,7 @@ The silence stretches between us, becoming an unbearable echo in the small kitch
  
 "Of course, I do." His answer is immediate, but I can see the confusion creeping into his gaze. "You're scaring me, Bella. What's wrong?"
  
-I swallow hard, fighting back the lump in my throat. "I have a secret, Luca." My voice is just a whisper, a desperate plea hanging in the quiet air of the kitchen. "A secret I've been keeping from you."
+I swallow hard, fighting back the lump in my throat. "I have a secret, Luca." My voice is just a whisper. "A secret I've been keeping from you."
  
 His hand tightens around mine. I can see his jaw clench as he waits for me to continue. "What secret, Bella?"
  
@@ -51,4 +47,4 @@ Luca lifts his head to look at me. His face is a mask of anger and disbelief.
  
 “It's what Bella? It's fucking what?” He is almost shouting. “What are you not telling me?”
  
-“It's a fake." I pause, bracing myself for his reaction. "The real one is hidden in the vaults of the National Gallery. The painting we have is worthless.”
+“It's a fake." I pause. "The real one is hidden in the vaults of the National Gallery. The painting we have is worthless.”

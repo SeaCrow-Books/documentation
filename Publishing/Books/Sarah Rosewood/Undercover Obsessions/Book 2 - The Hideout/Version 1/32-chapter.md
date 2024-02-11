@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 32
 ## Luca
  
 I watch the car with a feeling of apprehension rising in my stomach. Visitors are never good.
@@ -7,23 +7,19 @@ I am in a 'cottage' on the side of a Welsh hill. But that’s all I know. It isn
  
 The road leading to the house is a narrow, winding trail, cut into the hillside. I can see it snake down the hill and disappear into the undulating terrain. I now watch as a single car meanders along the route, its headlights a lonely beacon in the growing dusk.
  
-A comforting warmth emanates from the corner of the living room, where a modern log-burning stove casts flickering shadows on the stone walls. It's a cozy corner, the hearth a quiet and steady presence in the room. I find myself there, nestled into a plush, slate-grey couch, a newspaper on my lap. My eyes dart across the lines of black print, but the words blur into meaninglessness, my thoughts elsewhere. I pretend to read, the paper a guise, a prop in this stage of apprehension and dread.
+A comforting warmth emanates from the corner of the living room, where a modern log-burning stove casts flickering shadows on the stone walls. It's a cozy corner, the hearth a quiet and steady presence in the room. I find myself there, nestled into a plush, slate-grey couch, a newspaper on my lap. My eyes dart across the lines of black print, but the words blur into meaninglessness, my thoughts elsewhere. I pretend to read.
  
-Across the room, a man occupies an armchair. I’ve been living with this annoying fucker for the past few days. He’s my babysitter. He’s tall, head and shoulders above most, with a posture that screams discipline and authority. His jawline is as sharp as they come, looking like it's been carved from granite. His hair, a rich dark wave, is always styled effortlessly – the kind you'd imagine takes hours, but you know he probably wakes up with it looking that way. Behind deep-set hazel eyes, there’s a glint of intelligence. Physically, he's built like someone who knows his way around a gym, but not in that flashy bodybuilder way. It's more like someone trained for strength and agility – functional and solid. And his hands are the sort of hands that could easily fix a car or craft a sculpture, versatile and skillful. 
-
-His suit jacket has been discarded on the armrest, revealing a crisp white shirt and a thin black tie. His sleeves are rolled up to the elbows, exposing a wristwatch with a gleaming silver dial. There's a professional air about him, a quiet confidence. But the pistol in the shoulder holster strapped across his chest truly demands attention. He's got that effortless elegance about him. It's not just his appearance that gets under my skin, though. It's that aura – that mix of calm, calculated assurance and charisma. Like I said, he is an annoying fucker. More Action Man than a real person.
+Across the room, a man occupies an armchair. I’ve been living with this annoying fucker for the past few days. He’s my babysitter. He’s tall, head and shoulders above most, with a posture that screams discipline and authority. His jawline is as sharp as they come, looking like it's been carved from granite. His hair, a rich dark wave, is always styled effortlessly – the kind you'd imagine takes hours, but you know he probably wakes up with it looking that way. Behind deep-set hazel eyes, there’s a glint of intelligence. Physically, he's built like someone who knows his way around a gym, but not in that flashy bodybuilder way. It's more like someone trained for strength and agility – functional and solid. And his hands are the sort of hands that could easily fix a car or craft a sculpture, versatile and skillful. His suit jacket has been discarded on the armrest, revealing a crisp white shirt and a thin black tie. His sleeves are rolled up to the elbows, exposing a wristwatch with a gleaming silver dial. There's a professional air about him, a quiet confidence. But the pistol in the shoulder holster strapped across his chest truly demands attention. He's got that effortless elegance about him. It's not just his appearance that gets under my skin, though. It's that aura – that mix of calm, calculated assurance and charisma. Like I said, he is an annoying fucker. More Action Man than a real person.
 
 I fucking hate him. I hate everything about his perfect fucking persona. 
  
-The room is filled with a tense silence, broken only by the occasional crackle of the fire and the rustle of the newspaper in my hands. I flip the page, a futile attempt at normalcy, all the while keenly aware of the watchful eyes on the car.
- 
-"D'you think you could make me a coffee, Dave?" I ask, the paper lowering as I turn my gaze toward him. His name isn’t Dave, but I know it annoys him when I call him that, so I try to use it as often as possible.
+"D'you think you could make me a coffee, Dave?" I ask, the paper lowering as I turn my gaze toward him. 
  
 He rolls his eyes in exasperation. He leans back in his chair, and lets out a weary sigh. "For the umpteenth time, Luca," he retorts, his tone a mix of annoyance and tired resignation, "I am not your butler. My job is to keep you safe and in this house, not to cater to your every whim." The rebuke is sharp, a curt reminder of the roles we've been thrust into. He pushes up from his chair, crossing his arms over his chest. "And my name is Inspector Smith, not Dave. Please remember that."
  
-“Sorry, Dave,” I say with a smile. You have to take the small wins. 
+“Sorry, Dave,” I say with a smile. You have to take the small wins. His name isn’t Dave, but I know it annoys him when I call him that, so I try to use it as often as possible.
  
-The unmistakable sound of tyer on the nearby road breaks the peace. Dave rises from his chair with a swift, practiced motion, crossing the room to look out the large floor-to-ceiling window. His hand hovers near the holster holding his pistol - a reflexive, protective gesture. I watch as a sleek, black Tesla glides up the gravel drive. The car is almost silent, an efficient predator prowling through the peaceful Welsh landscape. The vehicle stops, and the driver's side door swings open. Out steps Harrison. He's tall, broad-shouldered, with the build of a rugby player and the stride of a man used to being obeyed. His short-cropped salt-and-pepper hair is a stark contrast against the green backdrop of the Welsh countryside. He's dressed in a well-tailored suit, a clear symbol of his position, though it's slightly rumpled now from the drive.
+The unmistakable sound of the car on the nearby road breaks the peace. Dave rises from his chair with a swift, practiced motion, crossing the room to look out the large floor-to-ceiling window. His hand hovers near the holster holding his pistol - a reflexive, protective gesture. I watch as a sleek, black Tesla glides up the gravel drive. The car is almost silent. The vehicle stops, and the driver's side door swings open. Out steps Harrison. He's tall, broad-shouldered, with the build of a rugby player. His short-cropped salt-and-pepper hair is a stark contrast against the green backdrop of the Welsh countryside. He's dressed in a well-tailored suit, a clear symbol of his position, though it's slightly rumpled now from the drive.
  
 I like Harrison. I want to hate him with every fiber of my being, but I can’t. He's a professional, and that I can respect, but he also cares deeply for Bella, and that softens me.
  
@@ -33,7 +29,7 @@ As Harrison ascends the porch steps, Dave moves to the door. He glances over to 
  
 “I am not gay,” he says, looking back at the door.
  
-I smile. Winding up Dave is one of my small pleasures. It helps me to hide the pain. 
+I smile. "I hope your boyfriend knows." Winding up Dave is one of my small pleasures. 
 
 The beeps echo through the silent room, and Dave steps aside, the door swinging open to admit Harrison. Dave, standing rigid at the door, gives Harrison a curt nod. "Superintendent," he acknowledges, voice as neutral as a placid lake.
  
@@ -67,9 +63,9 @@ Harrison's piercing eyes lock onto mine, a glint of hard determination flashing 
  
 Harrison sighs but makes and holds eye contact. “I don't have the time or patience to play games with you, Luca. So I'll be honest. I’ve been given the ok to propose a deal. Its a one-time, non-negotiable offer," he states, his authoritative voice echoing around the modernistic room, leaving no room for dispute.
  
-Intrigue creeps into my demeanor, replacing the skepticism. I find myself leaning forward. "Do continue."
+Intrigue creeps into my demeanor, replacing the skepticism. I find myself leaning forward. "Go on."
  
-"We have enough evidence to charge you with Bianca's murder," he announces, his tone devoid of any warmth, as chilling as a winter breeze. "Her disappearance and the discovery of that burner phone connect back to you like an intricate web of guilt. We can place you at the location of the kill. Plus, you have motive. And that's merely the tip of the iceberg. Our investigations have unearthed a series of other crimes, all leading back to you."
+"We have enough evidence to charge you with Bianca's murder," he announces, his tone devoid of any warmth, as chilling as a winter breeze. "Her disappearance and the discovery of that burner phone connect back to you. We can place you at the location of the kill. Plus, you have motive. And that's merely the tip of the iceberg. Our investigations have unearthed a series of other crimes, all leading back to you."
  
 I pause, it's hard to decide if he’s bluffing. Rico told me they had dealt with the body, and Rico is a pro. I suspect Harrison is fishing. The phone was off. Anything he has is circumstantial, but he’s right. My disappearing the day Bianca vanishes is suspicious, but I am not sure it's enough to get a conviction. However, the bullet will match my gun if they have the body.
  
@@ -89,7 +85,7 @@ The breath freezes in my lungs. He lets that sink in, the silence between us hea
 
 Harrison shifts in his seat. "Well, if Rico is dead then I have just spent two hours talking to a ghost."
 
-My mind stops. Rico is alive? 
+My mind stops. 
 
 "How?"
 
@@ -97,11 +93,7 @@ My mind stops. Rico is alive?
 
 I know that after everything I should want Rico dead, but I am glad he survived. 
  
-"So, no matter which way you cut it, you are well… fucked.” 
-
-I start to speak but no words come out. 
-
-“So," Harrison says. "I think you need to listen carefully. The question isn't if you are fucked or not, this deal I am offering gives you a chance to decide just how fucked you are.”
+"No matter which way you cut it, you are well… fucked.” I start to speak but no words come out. “So," Harrison says. "I think you need to listen carefully. The question isn't if you are fucked or not, this deal I am offering gives you a chance to decide just how fucked you are.”
  
 I let my shoulders slump, defeated. He's right. If he's telling the truth, they have everything they need to convict me. Rico knows where all the bodies are buried, literally. “Ok, what are you planning?”
  
@@ -109,7 +101,7 @@ I let my shoulders slump, defeated. He's right. If he's telling the truth, they 
  
 “Who?”
  
-Harrison shifts his weight. He turns to look out of the window. Dave leaning against the wall, his phone to his ear. Harrison looks back. 
+Harrison shifts his weight. He turns to look out of the window. Dave's leaning against the wall, his phone to his ear. Harrison looks back. 
 
 “Three days ago, we got a ping on a bank account based in Jersey. We had to get a court order to track it. The bank didn’t want to give us access, but I can be very persuasive.”
  
@@ -125,7 +117,7 @@ The words crash over me like a violent wave, stunning me into silence.
  
 I take a shaky breath. “Go on.”
  
-“We assumed that he had crawled away to die in a ditch, but when his fat carcass didn’t turn up, we assumed he had somehow escaped.”
+“We thought that he had crawled away to die in a ditch, but when his fat carcass didn’t turn up, we assumed he had somehow escaped.”
  
 I shrug. “So how does that help me?”
  
@@ -139,22 +131,14 @@ I shrug. “So how does that help me?”
  
 “Yes.”
  
-“Go on.”
+“Ok.”
  
-“We can both help each other out here. You are facing a long time in jail. I can't promise you will get away scot-free, but I can promise we will go easy on you. Not turn over too many rocks. 
+“We can both help each other out here. You are facing a long time in jail. I can't promise you will get away scot-free, but I can promise we will go easy on you. Not turn over too many rocks." 
 
 "And in return?"
 
-"I want Vittorio. And… well, Vittorio is a vengeful bastard. According to Rico, he wants you and Bella.”
+"I want Vittorio. And… well, Vittorio is a vengeful bastard. According to Rico, he wants you and Bella.” A chill washes over me. "Outside of this room, no one knows you're in custody. As far as Vittorio is concerned, you are a free man," Harrison says, the intensity of his gaze unwavering. "We have told the papers that a body was found at the cottage, he'll assume that it was Rico. We have him locked up, so that's not an issue. Bella is confident that Vittorio never suspected she was a copper and this was a set up." I take a breath. He's right. "So, if you agree to assist us in capturing your father, we're prepared to offer you a deal. A quid pro quo. You help us get Vittorio, and we'll help you mitigate the fallout of your actions. I’ll make sure you stay out of jail."
  
-A chill washes over me.
- 
-"Outside of this room, no one knows you're in custody. As far as Vittorio is concerned, you are a free man," Harrison says, the intensity of his gaze unwavering. "We have told the papers that a body was found at the cottage, he'll assume that it was Rico. We have him locked up, so that's not an issue. Bella is confident that Vittorio never suspected she was a copper and this was a set up."
-
-I take a breath. He's right. 
-
-"So, if you agree to assist us in capturing your father, we're prepared to offer you a deal. A quid pro quo. You help us ensnare Vittorio, and we'll help you mitigate the fallout of your actions. I’ll make sure you stay out of jail."
- 
-“So, let me get this straight, you want to use me as bait to betray my father so I can go free?”
+“So, let me get this straight, you want to use me as bait to betray my own father so I can go free?”
  
 Harrison looked me in the eye. “Yes.”

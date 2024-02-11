@@ -1,4 +1,4 @@
-#edited/gary 
+# Chapter 18
 ## Luca
  
 I shudder as the cool air seeps through my thin shirt. For a moment, I stand on the path, scanning the expanse of the landscape stretching out before me. There's a stillness in the air, a silence that seems to echo the uneasy churn in my gut. I tip my head back, squinting at the sky. The brilliant, vast expanse of clear blue has vanished, replaced by an ominous stretch of slate-gray. The once fluffy, white clouds have darkened, rolling together to form an intimidating, undulating blanket. A storm is brewing. The smell of it - damp, earthy, and filled with portentous electricity - fills my nostrils. There's a low grumble in the distance, like a giant clearing its throat. The promise of a downpour is in the air, the landscape hushed in expectant anticipation. The wind picks up, sweeping over the rolling hills and carrying the chill of the impending storm. It tugs at my clothes, flapping the hem of my coat as if urging me to move, to find shelter.
@@ -15,9 +15,7 @@ The walk back to the cottage is more of a slog than I remember. The adrenaline h
  
 I step into the cottage, the unsettling silence hitting me. My eyes dart around, but there's no sign of Bella. A cold shiver of panic trickles down my spine.
  
-"Bella," I call out, my voice echoing through the unnerving stillness. My heart hammers as I stand frozen, straining to hear any sign of her. Then, faint and muffled, I catch the distinctive sound of her sobbing. "Bella," I call again, this time my voice choked with desperation.
- 
-I follow the trail of her sobs. I find her in the bedroom, huddled under the covers. The sight of her like this, so vulnerable and scared, twists something deep within me. In two strides, I'm by her side, sinking to my knees on the worn carpet. I hesitate, then stroke her hair, trying to offer some semblance of comfort amidst the turmoil.
+"Bella," I call out, my voice echoing through the unnerving stillness. My heart hammers as I stand frozen, straining to hear any sign of her. Then, faint and muffled, I catch the distinctive sound of her sobbing. "Bella," I call again, this time my voice choked with desperation. I follow the trail of her sobs. I find her in the bedroom, huddled under the covers. The sight of her like this, so vulnerable and scared, twists something deep within me. In two strides, I'm by her side, sinking to my knees on the worn carpet. I hesitate, then stroke her hair, trying to offer some semblance of comfort amidst the turmoil.
  
 "Hey," I whisper, my voice barely more than a breath, "I'm here, Bella. You're not alone."
  

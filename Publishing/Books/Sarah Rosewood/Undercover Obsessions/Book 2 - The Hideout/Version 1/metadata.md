@@ -1,9 +1,9 @@
 ---
 title:
 - type: main
-  text: The Heist
+  text: The Hideout
 - type: subtitle
-  text: Undercover Obsessions - Book 1 (A Dark Mafia, Undercover Lover Romance)
+  text: Undercover Obsessions - Book 2 (A Dark Mafia, Undercover Lover Romance)
 creator:
 - role: author
   text: Sarah Rosewood
@@ -13,7 +13,7 @@ identifier:
 publisher:  SeaCrow Books
 rights: © 2024 SeaCrow Books
 ibooks:
-  version: 2
+  version: 1
 ...
 
 
