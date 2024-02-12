@@ -1,3 +1,3 @@
-Stranger sex.
+### Stranger Sex
 
 Bella has been working a difficult case, she arranges to meet a friend at a local hotel bar. She is exhausted and needs to wind down. She gets to bar but the friends rings to cancel. There's a good looking stranger nearby, a business man. he overhears the conversation and offers to buy a drink. She says no. He says he's just won a big contract and just wants one drink to celebrate. Bella agrees. He is strong and dominant. She likes and is attracted to him. They flirt, Bella gets a little drunk. He invites her to his room, she agrees. The sex starts vanilla but he is a little dominant, tells her want to due. She wants him, wants to please him. Its a new feeling. She loves the way he manhandles her, touches her hips. She likes how he reacts when she sucks his cock. He grabs her hair a little and she is excited. He cums inside her and she is excited by the feeling. This is the first hints of submission.
