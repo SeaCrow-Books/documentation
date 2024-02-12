@@ -1,4 +1,4 @@
-**I have risk everything for love.**
+**I have risked everything for love.**
 
 I am a police officer in love with a dangerous criminal. 
 
