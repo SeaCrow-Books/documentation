@@ -2,7 +2,7 @@
 
 ### Version 2
 
-pandoc -o the-heist.epub \
+pandoc -o the-heist-v2.epub \
 metadata.md \
 trigger-warning-1.md \
 01-chapter.md \
@@ -37,13 +37,13 @@ trigger-warning-1.md \
 30-chapter.md \
 31-chapter.md \
 32-chapter.md \
-33-chapter.md --toc --toc-depth=1 --epub-cover-image=the-heist-cover.png --epub-metadata=metadata.md --css=styling-1.css
+33-chapter.md --toc --toc-depth=1 --epub-cover-image=the-heist-cover.jpg --epub-metadata=metadata.md --css=styling-1.css
 
 ## Book 2 - The Hideout
 
 ### Version 1
 
-pandoc -o the-hideout.epub \
+pandoc -o the-hideout-v1.epub \
 metadata.md \
 trigger-warning-1.md \
 01-chapter.md \
@@ -77,4 +77,4 @@ trigger-warning-1.md \
 29-chapter.md \
 30-chapter.md \
 31-chapter.md \
-32-chapter.md --toc --toc-depth=1 --epub-cover-image=the-hideout-cover.png --epub-metadata=metadata.md --css=styling-1.css
+32-chapter.md --toc --toc-depth=1 --epub-cover-image=the-hideout-cover.jpg --epub-metadata=metadata.md --css=styling-1.css
