@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/Workflow/Short Stories/Story Story Planning.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Workflow/Short Stories/Story Story Planning.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Story.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Workflow/Short Stories/Story Story Planning.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Workflow/Short Stories/Story Story Planning.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Story.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "aee501bf18dd8c54",
   "lastOpenFiles": [
-    "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
     "Publishing/Workflow/Short Stories/Story Story Planning.md",
+    "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
     "Publishing/Workflow/Short Stories",
     "Publishing/Brainstorming (In Development)/Book Planning Workflow (in development)/Book Workflow.md",
     "Publishing/Resources/Ebook Production/MetaData.md",
