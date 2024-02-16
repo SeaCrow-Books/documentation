@@ -1,7 +1,7 @@
 > [!info] 
 > This is a guide to creating a short story. 
 > Updated: 16 Feb 2023
-### 1. Start with a Concept or Situation
+## 1. Start with a Concept or Situation
 The first step is to establish a concept.
 
 - **Narrow Focus**: Choose a concept or situation that is narrow in scope but deep in meaning. A short story doesn't have the luxury of sprawling plot lines or a cast of characters, so the concept should be focused enough to explore in depth within a limited word count.
@@ -29,3 +29,5 @@ This is an example of this in action.
 5. **Moment of Realization**: Include a turning point where one or both characters realize their feelings have evolved beyond mere rivalry or antagonism. This realization often comes at a moment of crisis or separation, highlighting the strength of their bond.
 6. **Resolution of Conflict**: Address the initial conflict or misunderstanding that set them up as enemies. This resolution is important for clearing the path to a romantic relationship. It often involves compromise, understanding, or a gesture of goodwill.
 7. **Acceptance and Commitment**: Conclude with the characters acknowledging their feelings and deciding to pursue a relationship, despite the challenges. This acceptance is the culmination of their emotional journey from enemies to lovers.
+
+## 2. Define Your Characters' Goals and Motivations
