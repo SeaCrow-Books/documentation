@@ -29,6 +29,9 @@ This is an example of this in action.
 6. **Resolution of Conflict**: Address the initial conflict or misunderstanding that set them up as enemies. This resolution is important for clearing the path to a romantic relationship. It often involves compromise, understanding, or a gesture of goodwill.
 7. **Acceptance and Commitment**: Conclude with the characters acknowledging their feelings and deciding to pursue a relationship, despite the challenges. This acceptance is the culmination of their emotional journey from enemies to lovers.
 ## 2. Define Your Characters' Goals and Motivations 
+> [!info] 
+> This is a guide to creating a short story. 
+## 1. Start with a Concept or Situation
 Refining character goals and motivations for a short story, especially within the context of an "enemies to lovers" trope, requires a focus on clarity and depth while being concise due to the format's brevity. Here's how to approach this step to ensure your characters are compelling and their journey impactful:
 ### Simplify and Sharpen Character Goals
 - **Clear Objectives**: Each character needs a clear, straightforward goal that can be quickly understood by the reader. In a short story, there's limited space to explore complex backstories or motivations, so the characters' objectives should be direct and compelling.
