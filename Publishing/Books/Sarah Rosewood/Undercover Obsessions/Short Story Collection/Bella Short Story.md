@@ -1,14 +1,14 @@
 ## Suggested Titles
-1. **"Veiled Desires"**: Reflects the themes of hidden emotions and the exploration of unacknowledged desires.
-2. **"Shadows of Control"**: Suggests the exploration of power dynamics and the shadowy areas of personal freedom and control.
-3. **"Echoes of Submission"**: Captures the profound impact of the night's experience on Bella, echoing through her life and self-perception.
-4. **"The Unseen Mask"**: Highlights the themes of anonymity, hidden selves, and the masks people wear in public versus their private truths.
-5. **"One Night's Surrender"**: Directly references the pivotal encounter and the idea of surrendering to an unknown experience for a night.
-6. **"Transient Bonds"**: Reflects the temporary yet impactful connection between Bella and the businessman.
-7. **"Anonymity's Embrace"**: Conveys the comfort and liberation found in the anonymity of the encounter, allowing for true emotional exploration.
-8. **"The Illusion of Control"**: Suggests the nuanced exploration of control within the narrative, questioning who truly holds power.
-9. **"Moments of Clarity"**: Indicates the moments of profound insight and self-discovery that Bella experiences.
-10. **"Beneath the Surface"**: Points to the deep exploration of characters' inner worlds and desires that lie beneath their external facades.
+- **"Moments of Clarity"**: Indicates the moments of profound insight and self-discovery that Bella experiences. I LIKE THIS (GS)
+- **"Veiled Desires"**: Reflects the themes of hidden emotions and the exploration of unacknowledged desires.
+- **"Shadows of Control"**: Suggests the exploration of power dynamics and the shadowy areas of personal freedom and control.
+- **"Echoes of Submission"**: Captures the profound impact of the night's experience on Bella, echoing through her life and self-perception.
+- **"The Unseen Mask"**: Highlights the themes of anonymity, hidden selves, and the masks people wear in public versus their private truths.
+- **"One Night's Surrender"**: Directly references the pivotal encounter and the idea of surrendering to an unknown experience for a night.
+- **"Transient Bonds"**: Reflects the temporary yet impactful connection between Bella and the businessman.
+- **"Anonymity's Embrace"**: Conveys the comfort and liberation found in the anonymity of the encounter, allowing for true emotional exploration.
+- **"The Illusion of Control"**: Suggests the nuanced exploration of control within the narrative, questioning who truly holds power.
+- **"Beneath the Surface"**: Points to the deep exploration of characters' inner worlds and desires that lie beneath their external facades.
 ## Initial Idea
 Stranger sex.
 
