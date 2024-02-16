@@ -1,5 +1,4 @@
 
-
 ## Initial Idea
 Stranger sex.
 
