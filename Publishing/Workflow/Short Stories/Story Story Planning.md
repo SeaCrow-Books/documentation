@@ -30,8 +30,8 @@ This is an example of this in action.
 7. **Acceptance and Commitment**: Conclude with the characters acknowledging their feelings and deciding to pursue a relationship, despite the challenges. This acceptance is the culmination of their emotional journey from enemies to lovers.
 ## 2. Define Your Characters' Goals and Motivations 
 > [!info] 
-> This is a guide to creating a short story. 
-## 1. Start with a Concept or Situation
+> Can probably be skipped.
+### Start with a Concept or Situation
 Refining character goals and motivations for a short story, especially within the context of an "enemies to lovers" trope, requires a focus on clarity and depth while being concise due to the format's brevity. Here's how to approach this step to ensure your characters are compelling and their journey impactful:
 ### Simplify and Sharpen Character Goals
 - **Clear Objectives**: Each character needs a clear, straightforward goal that can be quickly understood by the reader. In a short story, there's limited space to explore complex backstories or motivations, so the characters' objectives should be direct and compelling.
@@ -39,7 +39,6 @@ Refining character goals and motivations for a short story, especially within th
 ### Distill Motivations to Their Essence
 - **Core Desires**: Focus on the core desire driving each character. This desire should be relatable and human, such as the need for acceptance, love, success, or redemption. In the context of your trope, their motivations might initially be rooted in defeating or outdoing the other but evolve towards understanding and connection.
 - **Emotional Depth**: Even in a short story, it's crucial to convey the depth of your characters' emotions and motivations. Use key scenes or dialogue to reveal why they pursue their goals with such passion. This depth makes the eventual romantic connection more believable and satisfying.
-
 ### Use Conflict to Reveal Goals and Motivations
 - **Interpersonal Conflict**: The initial antagonism between the characters should directly challenge their goals and motivations. For instance, if one character's goal is to win a professional award, and the other is their main competition, this sets up a clear conflict that is personal and professional.
 
