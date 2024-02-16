@@ -8,7 +8,7 @@ Bella has been working a difficult case, she arranges to meet a friend at a loca
 ## Concept
 This is step 1 of the process. 
 
-1. **Opening Scene**: The story opens in a high-end bar, setting the tone with its classy, sophisticated atmosphere. Bella is introduced as exhausted and seeking solace after a challenging case where she is trying to discover the identifty of a crimincal that sold a fake painting to a privare collector. Her frustration and desire for escape are palpable, setting the stage for her encounter with the businessman.
+1. **Opening Scene**: The story opens in a high-end bar, setting the tone with its classy, sophisticated atmosphere. Bella is introduced as exhausted and seeking solace after a challenging case where she is trying to discover the identify of a criminal that sold a fake painting to a private collector. Her frustration and desire for escape are palpable. She arrives at a hotel bar 
 2. **Introduction of the Businessman**: The businessman is portrayed as confident and successful, yet seeking an emotional connection that he finds through dominance and submission. His interest in Bella is sparked by a recognition of something unexplored within her, an opportunity for both to find what they are missing in their controlled, high-pressure lives.
     
 3. **The Encounter**: As Bella and the businessman engage, their conversation and interaction are observed by the barman, adding a voyeuristic element that heightens the sense of intimacy and exposure. Bella's excitement and willingness to submit are emphasized, marking the beginning of her journey into submission and the discovery of new emotional depths.
