@@ -71,7 +71,7 @@ Applying the refined approach to character goals and motivations within an "enem
 ### Application:
 This scenario demonstrates how character goals and motivations in an "enemies to lovers" story can evolve from conflict-driven objectives to a mutual understanding and connection. Initially, each character is motivated by a deeply personal goal that pits them against each other. Through the narrative, their forced interaction and shared challenges reveal the depth of their characters and the misguided nature of their initial perceptions. Their journey from antagonism to affection is marked by a gradual shift in goals, from winning an award to valuing the unexpected relationship that develops. This evolution reflects a complex understanding of personal growth, the nature of competition, and the value of connection, which are key elements of the "enemies to lovers" trope.
 
-## Sketch Out the Major Plot Points
+## 3. Sketch Out the Major Plot Points
 For a short story, refining the plot structure means streamlining and focusing each component to ensure that every element serves the narrative efficiently due to the shorter length of the piece. Let’s adapt the detailed blueprint to fit the constraints and opportunities unique to short stories, emphasizing brevity, impact, and depth within a limited word count.
 
 ### Exposition
