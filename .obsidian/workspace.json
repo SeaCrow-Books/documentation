@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d872a30569823ab",
+        "id": "7d54ef0a065e73c6",
         "type": "tabs",
         "children": [
           {
-            "id": "0a56d2ed7817cbec",
+            "id": "410e3ed4dae6d50e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03a0630c4c5d3894",
+  "active": "410e3ed4dae6d50e",
   "lastOpenFiles": [
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Character",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
@@ -187,7 +188,6 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/09-chapter.md",
     "Business/Obsidian Sync with Github.md",
     "Untitled",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-version-2.epub",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the_heist.png",
     "Marketing/Resources/Random attachments/Pasted Image 20231207091206_709.png",
     "Marketing/Resources/Random attachments/Pasted Image 20231207090848_945.png",
