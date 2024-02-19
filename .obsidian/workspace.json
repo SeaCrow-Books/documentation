@@ -10,13 +10,15 @@
           {
             "id": "01bceaf2e0810b9c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Email/Idea for Email Spine.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Email/Idea for Email Spine.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Email/Idea for Email Spine.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Email/Idea for Email Spine.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md"
               }
             }
           }
@@ -150,8 +152,9 @@
   },
   "active": "01bceaf2e0810b9c",
   "lastOpenFiles": [
-    "Pillar post information gathering.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
     "Marketing/Email/Idea for Email Spine.md",
+    "Pillar post information gathering.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
     "Marketing/Email",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Short Story.md",
@@ -159,7 +162,6 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bianca and Vittorio Story.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Harrison Story.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Rico Story.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Character",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/trigger-warning-1.md",
