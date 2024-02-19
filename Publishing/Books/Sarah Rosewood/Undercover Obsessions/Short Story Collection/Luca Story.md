@@ -5,4 +5,6 @@ There's a new girl in the office. Luca likes her and catches her looking at him.
 
 
 - list of smut chapters
-- 
+- the romance of lust - create ideas list on obsidian spine emalis
+- Affiliate links
+- Create a persona for Sarah
