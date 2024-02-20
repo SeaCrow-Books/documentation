@@ -3,7 +3,7 @@ This is a good place to start...
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahnGLM-RC1Y?si=7aPD7gBLN6xlQ5UI&amp;start=1191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Ragas
+## Ragas/
 This is an the community created system suggested by OpenAi.
 
 https://github.com/explodinggradients/ragas
