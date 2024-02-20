@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "419e4f6a44d1db86",
+        "id": "19334001d4f46f98",
         "type": "tabs",
         "children": [
           {
-            "id": "efd9e8b3bb50292a",
+            "id": "ecf67c42990b70ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pillar post information gathering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pillar post information gathering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pillar post information gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pillar post information gathering.md"
+              }
             }
           }
         ],
@@ -140,14 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efd9e8b3bb50292a",
+  "active": "ecf67c42990b70ed",
   "lastOpenFiles": [
-    "Can you see me Ben.md",
+    "Marketing/Email/Idea for Email Spine.md",
+    "Business/Archive",
     "Pillar post information gathering.md",
+    "Can you see me Ben.md",
     "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
     "Publishing/Books/Sarah Rosewood/Online Persona.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
-    "Marketing/Email/Idea for Email Spine.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
     "Marketing/Email",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Short Story.md",
@@ -175,11 +184,9 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Amazon-descriptions",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-cover.jpg",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout.epub",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-cover.png.crdownload",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/14-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/13-chapter.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/12-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/chapter-11.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the_heist.png",
     "Marketing/Resources/Random attachments/Pasted Image 20231207091206_709.png",
     "Marketing/Resources/Random attachments/Pasted Image 20231207090848_945.png",
