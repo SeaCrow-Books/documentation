@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Can you see me Ben?.md",
+                "file": "Pillar post information gathering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Can you see me Ben?.md",
+                "file": "Pillar post information gathering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Can you see me Ben?.md",
+                "file": "Pillar post information gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Can you see me Ben?.md"
+                "file": "Pillar post information gathering.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "c641cba211dab873",
   "lastOpenFiles": [
-    "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
     "Can you see me Ben?.md",
+    "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
     "Pillar post information gathering.md",
     "Publishing/Books/Sarah Rosewood/Online Persona.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
