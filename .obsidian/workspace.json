@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "504beb844b810c0a",
+        "id": "6d352e7f9641286a",
         "type": "tabs",
         "children": [
           {
-            "id": "3db6c3914bf20a2b",
+            "id": "e79903d2c1020cba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3db6c3914bf20a2b",
+  "active": "e79903d2c1020cba",
   "lastOpenFiles": [
     "Can you see me Ben.md",
     "Pillar post information gathering.md",
