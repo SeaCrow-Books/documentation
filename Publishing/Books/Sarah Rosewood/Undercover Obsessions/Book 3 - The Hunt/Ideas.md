@@ -1,7 +1,12 @@
 These are the idea and outlines for book 3, which will be called The Hunt. 
 
 
-- Vittorio has the painting, he is looking to sell the painting and return to the UK. He will be stopped at each point. He sees Luca rebuilding the gang and becomes increasing desperate and will, in the end, return to get his revenge on Luca. His return could be on a fishing boat. 
+- The book start with Vittirio on the run in Europe. His accounts have been frozen by the police so he is desperate. However, he has the van Gough painting. This is a fake but he is unaware of this. This plan is to sell the painting and return to the UK. He is keen to get revenge from Luca and Bella for the death of Bianca and Rico (though Rico is alive he is unaware of this), the fact he was stabbed and had to gone on the run. He is now driven by the need for revenge.
+- Inspector Harrison is obsessed with arresting Vittorio. He is certain that Vittorio killed his first wife but is unable to prove it. He has tried and failed to arrest Vittorio on several occasions. He is now nearing the end of his career and has been given permission to have one more attempt at arresting Vittoiro. However, the gangster is currently on the run in Europe and he needs to trick him to return to the UK to arrest him. He has come up with the idea that he can uses Vittorio's desire to revenge against him. He has offered Luca and Bella a deal where they will act as bait to tempt Vittorio to return. It is a dangerous plan since Vittorio will kill both given the chance. 
+-
+- 
+- 
+
 - Harrison comes up with the idea that Vittorio will return to the UK if he sees Luca claiming his gang and old business. This means that he is willing to allow Luca to do this, but only if Dave is part of it to keep an eye on him. He no longer trusts Bella but she needs to stay to also wind up Vittorio. 
 - Harrision is trying to get evidence to convict Vittorio, the problem is that he's not done enough. He comes back to the plan  
 

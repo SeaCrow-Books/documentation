@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b27ad568f383e1",
+        "id": "b972cbb0c9abaa08",
         "type": "tabs",
         "children": [
           {
-            "id": "4968afd840624979",
+            "id": "9d7a7cee31c786b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pillar post information gathering.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pillar post information gathering.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pillar post information gathering.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pillar post information gathering.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Ideas.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4968afd840624979",
+  "active": "9d7a7cee31c786b0",
   "lastOpenFiles": [
-    "test 2.md",
     "Pillar post information gathering.md",
+    "test 2.md",
     "Marketing/Email/Idea for Email Spine.md",
     "Business/Archive",
     "Can you see me Ben.md",
