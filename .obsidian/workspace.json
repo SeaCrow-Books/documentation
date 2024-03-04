@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55d0e144400242aa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Marketing/Resources/Random attachments/Pasted image 20231127104435.png"
+              }
+            }
           }
         ]
       }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 471.5
   },
   "right": {
     "id": "cfbb5894936a9ae3",
@@ -150,6 +160,9 @@
   },
   "active": "9d7a7cee31c786b0",
   "lastOpenFiles": [
+    "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
+    "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
+    "Marketing/Strategy/Tactics/Pillar Posting.md",
     "Marketing/Strategy/Marketing Strategy Overview.md",
     "Pillar post information gathering.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
@@ -178,8 +191,6 @@
     "Publishing/Workflow/Short Stories",
     "Publishing/Brainstorming (In Development)/Book Planning Workflow (in development)/Book Workflow.md",
     "Publishing/Resources/Ebook Production/MetaData.md",
-    "Publishing/Resources/Ebook Production/Metadata Example.md",
-    "Publishing/Resources/Ebook Production/Epub Production Guide.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Untitled",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-v1.epub",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/styling-1.css",
@@ -194,7 +205,6 @@
     "Pasted Image 20231207090848_945.png",
     "Pasted Image 20231207091206_709.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104925.png",
-    "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127073437.png"
   ]
 }
