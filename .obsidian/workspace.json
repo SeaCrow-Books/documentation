@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Strategy/Tactics/Pillar Posting.md",
+                "file": "Business/Mindset/Do Thing That Don't Scale.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Strategy/Tactics/Pillar Posting.md",
+                "file": "Business/Mindset/Do Thing That Don't Scale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Strategy/Tactics/Pillar Posting.md",
+                "file": "Business/Mindset/Do Thing That Don't Scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Strategy/Tactics/Pillar Posting.md"
+                "file": "Business/Mindset/Do Thing That Don't Scale.md"
               }
             }
           }
@@ -160,9 +160,11 @@
   },
   "active": "9d7a7cee31c786b0",
   "lastOpenFiles": [
+    "Business/Mindset/1000 True Fans.md",
+    "Business/Business Ideas.md",
+    "Marketing/Strategy/Tactics/Pillar Posting.md",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
-    "Marketing/Strategy/Tactics/Pillar Posting.md",
     "Marketing/Strategy/Marketing Strategy Overview.md",
     "Pillar post information gathering.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
@@ -190,7 +192,6 @@
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/trigger-warning-1.md",
     "Publishing/Workflow/Short Stories",
     "Publishing/Brainstorming (In Development)/Book Planning Workflow (in development)/Book Workflow.md",
-    "Publishing/Resources/Ebook Production/MetaData.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Untitled",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-v1.epub",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/styling-1.css",
@@ -204,7 +205,6 @@
     "Marketing/Resources/Random attachments/Pasted Image 20231207090848_945.png",
     "Pasted Image 20231207090848_945.png",
     "Pasted Image 20231207091206_709.png",
-    "Marketing/Resources/Random attachments/Pasted image 20231127104925.png",
-    "Marketing/Resources/Random attachments/Pasted image 20231127073437.png"
+    "Marketing/Resources/Random attachments/Pasted image 20231127104925.png"
   ]
 }
