@@ -5,3 +5,4 @@ This is a collection of business ideas, concepts and mindsets that have influenc
 - [[Modular Production of Books]]
 - [[Permission Marketing]]
 - [[DRY]]
+- [[AI Startups Require new Strategies]]
