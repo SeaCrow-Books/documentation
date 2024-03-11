@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b972cbb0c9abaa08",
+        "id": "8cfe0c8cbf14d420",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7a7cee31c786b0",
+            "id": "7a21c066ed03ddcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Mindset/!Business Mindset Outline.md",
+                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "55d0e144400242aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Marketing/Resources/Random attachments/Pasted image 20231127104435.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Mindset/!Business Mindset Outline.md",
+                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Mindset/!Business Mindset Outline.md",
+                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Mindset/!Business Mindset Outline.md"
+                "file": "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md"
               }
             }
           }
@@ -158,39 +148,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d7a7cee31c786b0",
+  "active": "7a21c066ed03ddcc",
   "lastOpenFiles": [
-    "Business/Mindset/Do Thing That Don't Scale.md",
-    "Business/Mindset/1000 True Fans.md",
-    "Business/Business Ideas.md",
+    "Marketing/Workflow/!Posting Schedule.md",
+    "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
+    "Marketing/Workflow/Blog/Reviews Workflow.md",
+    "Marketing/Workflow/Blog/Pillar Post Workflow.md",
+    "Marketing/Workflow/Blog/Listicle Workflow.md",
+    "Marketing/Workflow/Blog/!AI Best Practices for Blog Posts.md",
+    "Marketing/Strategy/Marketing Strategy Overview.md",
+    "Marketing/Strategy/Tactics/Spine Email Drip.md",
     "Marketing/Strategy/Tactics/Pillar Posting.md",
+    "Marketing/Strategy/Tactics/Pillar Content.md",
+    "Marketing/Strategy/Tactics/Content Engine.md",
+    "Marketing/Resources/Random attachments/Pillar post information gathering.md",
+    "Marketing/Resources/Post Resources/Supporting Tools.md",
+    "Marketing/Resources/Post Resources/Post Ideas.md",
+    "Marketing/Resources/Post Resources/Competitors and Resource Sites.md",
+    "Marketing/Resources/Post Resources/Competitor Posts Analysis.md",
+    "Marketing/Resources/Post Resources/All Romance Fiction Subgenres and Tropes.md",
+    "Marketing/Resources/Marketing Approach/Marketing Mindset.md",
+    "Marketing/Resources/Branding resources/SeaCrow Branding Doc.md",
+    "Marketing/Resources/Branding resources/Branding examples.md",
+    "Marketing/Resources/Branding resources/Books on Branding.md",
+    "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Contemporary Fantasy Romance Deep Dive.md",
+    "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Epic Fantasy Romance HTML Post.md",
+    "Marketing/Pillar Approach/Possible questions and approaches/Romance fiction questions.md",
+    "Marketing/Pillar Approach/Possible questions and approaches/Pillar Post Strategy Ideas.md",
+    "Marketing/Pillar Approach/Pillar Posts Outline/Trope Pillar Posts Outline.md",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
-    "Marketing/Strategy/Marketing Strategy Overview.md",
-    "Pillar post information gathering.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/32-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/03-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/02-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/31-chapter.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Short Story.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Ideas.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 3 - The Hunt/Three Act Structure Planning.md",
-    "test 2.md",
-    "Marketing/Email/Idea for Email Spine.md",
     "Business/Archive",
-    "Can you see me Ben.md",
-    "Publishing/Workflow/Book Rewriting Prompts and Tips.md",
-    "Publishing/Books/Sarah Rosewood/Online Persona.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Luca Story.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Luca's Character Sheet.md",
     "Marketing/Email",
-    "Publishing/Workflow/Short Stories/Story Story Planning.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bianca and Vittorio Story.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Harrison Story.md",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Rico Story.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Character",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/trigger-warning-1.md",
     "Publishing/Workflow/Short Stories",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Untitled",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-v1.epub",

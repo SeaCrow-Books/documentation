@@ -122,7 +122,7 @@
 	    - [ ] Trends 
 	    - [ ] Other genre specific posts that answer specific questions
 	- [ ] _Sub-Pillar 1.8: Fairy Tale Fantasy Romance Compilation Post
-		- [ ] Fairy Tale Fantasy Romance Deep Dive
+		- [x] Fairy Tale Fantasy Romance Deep Dive
 	    - [ ] Spiciest...
 	    - [ ] Most popular...
 	    - [ ] Most notable of all time...
@@ -133,7 +133,7 @@
 	    - [ ] Standout authors + series (overlap with the Author Spotlight posts)
 	    - [ ] Trends 
 	    - [ ] Other genre specific posts that answer specific questions
-	- [ ] Sub-Pillar 1.9: _Fae Fantasy Romance Compilation Post_
+	- [ ] Sub-Pillar 1.9: _Fae Romance Compilation Post_
 		- [ ] Fae Fantasy Romance Deep Dive
 	    - [ ] Spiciest...
 	    - [ ] Most popular...
