@@ -71,7 +71,7 @@
 <p>What's noteworthy is the uptick in "small-town" Contemporary Fantasy Romances, featuring magical communities hidden within the mundane. This could be seen as a response to urban life's chaos, offering a fantasy escape that feels close to home.</p>
 
 <div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/contemporary-romance-fiction" class="alert-link">Contemporary Fantasy Romance with our deep dive</a>.
+  Discover more about <a href="https://seacrowbooks.com/blog/contemporary-fantasy-romance" class="alert-link">Contemporary Fantasy Romance with our deep dive</a>.
 </div>
 
 <h4 class="post-show__title" id="urban-fantasy-romance">Urban Fantasy Romance</h4>
@@ -89,13 +89,17 @@
 <h4 class="post-show__title" id="elfpunk-romance">Elfpunk Romance</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/elfpunk/permanent_image" alt="A beautiful elf stares out the window of a modern coffee shop" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
-<p>Elfpunk embodies a captivating fusion of modernity and ancient folklore, injecting fresh vitality into the timeless tales of elves. This genre melds the audacious spirit of punk culture with the enchanting mystique of elvish heritage. Imagine elves clad in leather jackets, their rebellious spirits unshackled from the constraints of traditional narratives, and their stories imbued with a subversive, contemporary edge.</p>
+<p>Elfpunk blends modernity with ancient elven folklore, creating a vibrant new twist on traditional tales. It combines punk's bold spirit with elves' mystical heritage, envisioning elves in leather jackets, breaking free from old stories with a subversive edge.</p>
 
-<p>Within the realm of Elfpunk, the once ethereal and serene elves have metamorphosed into a more intricate and gritty incarnation of themselves. They now inhabit a world where tradition dances with rebellion, where the tranquility of the forest is punctuated by the blaring anthems of punk music, and where their age-old customs collide with a fervent pursuit of individualism.</p>
+<p>In Elfpunk, elves transform into complex, gritty beings, merging tradition with rebellion. Their world, where serene forests meet punk music's roar, reflects their fight for individualism against age-old customs.</p>
 
-<p>These elves are far from the archetypal Tolkien-esque beings; they radiate a punk sensibility that electrifies their essence. Their pointed ears are adorned with an array of piercings, their timeless allure tinged with an unapologetic attitude that scoffs at conformity. Instead of retreating to secluded woods, they may be found in the heart of bustling urban landscapes, navigating the intricacies of city life while staying faithful to their elvish heritage.</p>
+<p>These elves, distinct from Tolkien's creations, exude punk sensibility. Adorned with piercings and a rebellious attitude, they navigate city life while honoring their elvish roots.</p>
 
-<p>Elfpunk beckons readers and enthusiasts alike to embark on a journey into a world where enchantment and rebellion seamlessly coalesce. It's a realm where age-old legends are reimagined for a contemporary audience, where elves forge their own destinies and challenge the very essence of their existence. So, if you're prepared to immerse yourself in a realm where punk culture converges with elvish lore, brace yourself for the enthralling and unconventional narratives that await within the enchanting tapestry of Elfpunk.</p>
+<p>Elfpunk invites readers into a world where enchantment and rebellion merge. Here, elves redefine their legends for today's audience, challenging their existence in a world where punk and elvish lore intertwine.</p>
+
+<div class="alert alert-primary" role="alert">
+  Learn more about <a href="https://seacrowbooks.com/blog/elfpunk-romance" class="alert-link">Elfpunk Romance with our deep dive</a>.
+</div>
 
 <h4 class="post-show__title" id="cozy-fantasy-romance">Cozy Fantasy Romance</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/cozy-fantasy-romance/permanent_image" alt="Two roman fauns are on a date in a modern movie theater" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -114,11 +118,23 @@
 </div>
 
 <h4 class="post-show__title" id="fairy-tale-romance">Fairy Tale Romance</h4>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/fairy-tale-romance/permanent_image" alt="Two people of different classes kissing" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>The classic tales of Cinderella or Beauty and the Beast get a revamp in Fairy Tale Romance. This subgenre takes familiar stories and retells them with added complexity, emotional depth, and, of course, romance. While Fairy Tale Romances often hold an air of nostalgia, they also challenge traditional narratives by empowering their characters in modern, relevant ways.</p>
+
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://seacrowbooks.com/blog/fairy-tale-romance" class="alert-link">Fairy Tale Romance with our deep dive</a>.
+</div>
 
 <h4 class="post-show__title" id="fae-romance">Fae Romance</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/fae-romance/permanent_image" alt="Two dark fae beings embrace in a cursed forest" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Set in worlds brimming with faeries, Fae Romance explores relationships that are as complex and mysterious as the magical beings it features. Here, love stories often involve bargains, challenges, and intricate lore, taking the characters—and the reader—on a wild emotional ride. It shares a kinship with Fairy Tale Romance, but with a darker, more intricate approach to fae mythology.</p>
+
+
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://seacrowbooks.com/blog/fae-romance" class="alert-link">Fae Fantasy Romance with our deep dive</a>.
+</div>
 
 <h4 class="post-show__title" id="witch/wizard-romance">Witch/Wizard Romance</h4>
 <p>Magic potions, ancient spells, and enchanting rendezvous define the Witch/Wizard Romance subgenre. These love stories often involve magical challenges or ethical dilemmas related to the use of magic, adding layers of complexity to the romantic relationships.</p>
@@ -1298,3 +1314,8 @@
 <p>In this ever-evolving landscape of speculative romance, it's clear that each genre serves as a playground for not just fantasy, but emotional resonance. It's more than just escapism; it's about envisioning a world that reflects our deepest desires and complicated quirks. Sociocultural factors weave through the pages, subtly highlighting the broader dialogue surrounding issues like gender dynamics, consent, and the complexities of love in a world teeming with magic, tech, or fangs.</p>
 
 <p>So, what's next on this riveting journey? Buckle up, because this is only the beginning. You can expect the ambiance to shift, the stakes to get even higher, and love to grow ever more challenging as we explore each subgenre's contributions to this tantalizing narrative universe in upcoming posts. Until then, keep those pages turning and your hearts open to the wild possibilities of love in realms where anything is possible.</p>
+
+
+<div class="alert alert-primary" role="alert">
+  Discover more information about <a href="https://seacrowbooks.com/blog/romance-fiction">Romance Fiction with our genre guide.</a>
+</div>
