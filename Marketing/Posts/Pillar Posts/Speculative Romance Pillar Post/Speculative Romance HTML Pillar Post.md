@@ -137,9 +137,16 @@
 </div>
 
 <h4 class="post-show__title" id="witch/wizard-romance">Witch/Wizard Romance</h4>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/witch-and-wizard/permanent_image" alt="A witch and wizard kissing" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>Magic potions, ancient spells, and enchanting rendezvous define the Witch/Wizard Romance subgenre. These love stories often involve magical challenges or ethical dilemmas related to the use of magic, adding layers of complexity to the romantic relationships.</p>
 
 <p>This whirlwind tour of Fantasy Romance subgenres shows the genre's breadth, allowing readers to pick their poison—or potion—when it comes to love stories set against magical canvases. But the picture is incomplete without the accompanying tropes.</p>
+
+<div class="alert alert-primary" role="alert">
+  Learn more about <a href="https://seacrowbooks.com/blog/witch-and-wizard-romance" class="alert-link">Witch/Wizard Romance with our deep dive</a>.
+</div>
 
 <h3 class="post-show__title" id="fantasy-romance-tropes">Fantasy Romance Tropes</h3>
 
