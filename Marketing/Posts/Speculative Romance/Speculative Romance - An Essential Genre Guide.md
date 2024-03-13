@@ -17,9 +17,9 @@
    		 <li class="table-of-contents__link"><a href="#fantasy-romance">Fantasy Romance</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-subgenres">Fantasy Romance Subgenres</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-tropes">Fantasy Romance Tropes</a></li>
-   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science Ficition Romance</a></li>
-		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science Ficition Romance Subgenres</a></li>
-			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science Ficition Romance Tropes</a></li>
+   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science fiction Romance</a></li>
+		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science Fiction Romance Subgenres</a></li>
+			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science fiction Romance Tropes</a></li>
    		 <li class="table-of-contents__link"><a href="#paranormal-romance">Paranormal Romance</a></li>
 		 		<li class="table-of-contents__link-child"><a href="#paranormal-romance-subgenres">Paranormal Romance Subgenres</a></li>
 				<li class="table-of-contents__link-child"><a href="#paranormal-romance-tropes">Paranormal Romance Tropes</a></li>
@@ -225,13 +225,13 @@
 <p>These relationships usually carry an inherent tension that can be both exotic and divisive, like a spicy kick to an otherwise sweet concoction. It's an echo chamber for issues of diversity, consent, and even political allegiances. In some contemporary works, the trope extends into eco-fantasy realms, where the non-human entities represent environmental or ethical concerns. Talk about love in the time of sustainability.</p>
 
 
-<h2 class="post-show__title" id="sci-fi-romance">Science Ficition Romance Subgenres</h2>
+<h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance Subgenres</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sci-fi-romance/permanent_image" alt="A couple stand back to back with laser guns in a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Strap into your spacecraft, darlings, because Sci-Fi Romance is here to rocket you into galaxies of passion and intrigue. The fusion of advanced technology, extraterrestrial settings, and tantalizing human (or non-human) connection creates an otherworldly tapestry of love. Picture it: sharing a forbidden kiss in zero-gravity while dodging space pirates or falling head over heels for an android with a "heart" of gold—it's enough to make even the coolest Vulcans swoon.</p>
 
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science Ficition Romance Subgenres</h3>
+<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science fiction Romance Subgenres</h3>
 
 <h4 class="post-show__title" id="space-opera-romance">Space Opera Romance</h4>
 <p>Cue the dramatic music and heart-stopping plot twists because Space Opera Romance is the grand theater of Sci-Fi Romance. You're in for epic space battles, sweeping political drama, and love stories that are literally out of this world. This subgenre takes your average romance stakes—like earning the approval of in-laws—and amps it up to having to broker peace between warring galaxies. Now that's what I call couple goals.</p>
@@ -271,7 +271,7 @@
 
 <p>Let’s forget hyperdrives for a second and delve into hyperlove as we explore the tropes that elevate Sci-Fi Romance to cosmic heights.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-tropes">Science Ficition Romance Tropes</h3>
+<h3 class="post-show__title" id="sci-fi-romance-tropes">Science fiction Romance Tropes</h3>
 
 <h4 class="post-show__title" id="galaxies-apart">Galaxies Apart</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/galaxies-apart/permanent_image" alt="A man speaks with the hologram of his lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -342,9 +342,9 @@
    		 <li class="table-of-contents__link"><a href="#fantasy-romance">Fantasy Romance</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-subgenres">Fantasy Romance Subgenres</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-tropes">Fantasy Romance Tropes</a></li>
-   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science Ficition Romance</a></li>
-		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science Ficition Romance Subgenres</a></li>
-			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science Ficition Romance Tropes</a></li>
+   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science fiction Romance</a></li>
+		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science fiction Romance Subgenres</a></li>
+			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science fiction Romance Tropes</a></li>
    		 <li class="table-of-contents__link"><a href="#paranormal-romance">Paranormal Romance</a></li>
 		 		<li class="table-of-contents__link-child"><a href="#fantasy-romance-subgenres">Fantasy Romance Subgenres</a></li>
 				<li class="table-of-contents__link-child"><a href="#fantasy-romance-tropes">Fantasy Romance Tropes</a></li>
@@ -500,13 +500,13 @@
 <p>These relationships usually carry an inherent tension that can be both exotic and divisive, like a spicy kick to an otherwise sweet concoction. It's an echo chamber for issues of diversity, consent, and even political allegiances. In some contemporary works, the trope extends into eco-fantasy realms, where the non-human entities represent environmental or ethical concerns. Talk about love in the time of sustainability.</p>
 
 
-<h2 class="post-show__title" id="sci-fi-romance">Science Ficition Romance Subgenres</h2>
+<h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance Subgenres</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sci-fi-romance/permanent_image" alt="A couple stand back to back with laser guns in a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Strap into your spacecraft, darlings, because Sci-Fi Romance is here to rocket you into galaxies of passion and intrigue. The fusion of advanced technology, extraterrestrial settings, and tantalizing human (or non-human) connection creates an otherworldly tapestry of love. Picture it: sharing a forbidden kiss in zero-gravity while dodging space pirates or falling head over heels for an android with a "heart" of gold—it's enough to make even the coolest Vulcans swoon.</p>
 
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science Ficition Romance Subgenres</h3>
+<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science fiction Romance Subgenres</h3>
 
 <h4 class="post-show__title" id="space-opera-romance">Space Opera Romance</h4>
 <p>Cue the dramatic music and heart-stopping plot twists because Space Opera Romance is the grand theater of Sci-Fi Romance. You're in for epic space battles, sweeping political drama, and love stories that are literally out of this world. This subgenre takes your average romance stakes—like earning the approval of in-laws—and amps it up to having to broker peace between warring galaxies. Now that's what I call couple goals.</p>
@@ -546,7 +546,7 @@
 
 <p>Let’s forget hyperdrives for a second and delve into hyperlove as we explore the tropes that elevate Sci-Fi Romance to cosmic heights.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-tropes">Science Ficition Romance Tropes</h3>
+<h3 class="post-show__title" id="sci-fi-romance-tropes">Science fiction Romance Tropes</h3>
 
 <h4 class="post-show__title" id="galaxies-apart">Galaxies Apart</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/galaxies-apart/permanent_image" alt="A man speaks with the hologram of his lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -843,13 +843,13 @@
 <p>These relationships usually carry an inherent tension that can be both exotic and divisive, like a spicy kick to an otherwise sweet concoction. It's an echo chamber for issues of diversity, consent, and even political allegiances. In some contemporary works, the trope extends into eco-fantasy realms, where the non-human entities represent environmental or ethical concerns. Talk about love in the time of sustainability.</p>
 
 
-<h2 class="post-show__title" id="sci-fi-romance">Science Ficition Romance Subgenres</h2>
+<h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance Subgenres</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sci-fi-romance/permanent_image" alt="A couple stand back to back with laser guns in a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Strap into your spacecraft, darlings, because Sci-Fi Romance is here to rocket you into galaxies of passion and intrigue. The fusion of advanced technology, extraterrestrial settings, and tantalizing human (or non-human) connection creates an otherworldly tapestry of love. Picture it: sharing a forbidden kiss in zero-gravity while dodging space pirates or falling head over heels for an android with a "heart" of gold—it's enough to make even the coolest Vulcans swoon.</p>
 
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science Ficition Romance Subgenres</h3>
+<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science fiction Romance Subgenres</h3>
 
 <h4 class="post-show__title" id="space-opera-romance">Space Opera Romance</h4>
 <p>Cue the dramatic music and heart-stopping plot twists because Space Opera Romance is the grand theater of Sci-Fi Romance. You're in for epic space battles, sweeping political drama, and love stories that are literally out of this world. This subgenre takes your average romance stakes—like earning the approval of in-laws—and amps it up to having to broker peace between warring galaxies. Now that's what I call couple goals.</p>
@@ -889,7 +889,7 @@
 
 <p>Let’s forget hyperdrives for a second and delve into hyperlove as we explore the tropes that elevate Sci-Fi Romance to cosmic heights.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-tropes">Science Ficition Romance Tropes</h3>
+<h3 class="post-show__title" id="sci-fi-romance-tropes">Science fiction Romance Tropes</h3>
 
 <h4 class="post-show__title" id="galaxies-apart">Galaxies Apart</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/galaxies-apart/permanent_image" alt="A man speaks with the hologram of his lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -956,9 +956,9 @@
    		 <li class="table-of-contents__link"><a href="#fantasy-romance">Fantasy Romance</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-subgenres">Fantasy Romance Subgenres</a></li>
 			<li class="table-of-contents__link-child"><a href="#fantasy-romance-tropes">Fantasy Romance Tropes</a></li>
-   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science Ficition Romance</a></li>
-		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science Ficition Romance Subgenres</a></li>
-			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science Ficition Romance Tropes</a></li>
+   		 <li class="table-of-contents__link"><a href="#sci-fi-romance">Science fiction Romance</a></li>
+		 	<li class="table-of-contents__link-child"><a href="#sci-fi-romance-subgenres">Science fiction Romance Subgenres</a></li>
+			<li class="table-of-contents__link-child"><a href="#sci-fi-romance-tropes">Science fiction Romance Tropes</a></li>
    		 <li class="table-of-contents__link"><a href="#paranormal-romance">Paranormal Romance</a></li>
 		 		<li class="table-of-contents__link-child"><a href="#fantasy-romance-subgenres">Fantasy Romance Subgenres</a></li>
 				<li class="table-of-contents__link-child"><a href="#fantasy-romance-tropes">Fantasy Romance Tropes</a></li>
@@ -1110,13 +1110,13 @@
 <p>These relationships usually carry an inherent tension that can be both exotic and divisive, like a spicy kick to an otherwise sweet concoction. It's an echo chamber for issues of diversity, consent, and even political allegiances. In some contemporary works, the trope extends into eco-fantasy realms, where the non-human entities represent environmental or ethical concerns. Talk about love in the time of sustainability.</p>
 
 
-<h2 class="post-show__title" id="sci-fi-romance">Science Ficition Romance Subgenres</h2>
+<h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance Subgenres</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sci-fi-romance/permanent_image" alt="A couple stand back to back with laser guns in a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Strap into your spacecraft, darlings, because Sci-Fi Romance is here to rocket you into galaxies of passion and intrigue. The fusion of advanced technology, extraterrestrial settings, and tantalizing human (or non-human) connection creates an otherworldly tapestry of love. Picture it: sharing a forbidden kiss in zero-gravity while dodging space pirates or falling head over heels for an android with a "heart" of gold—it's enough to make even the coolest Vulcans swoon.</p>
 
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science Ficition Romance Subgenres</h3>
+<h3 class="post-show__title" id="sci-fi-romance-subgenres">Science fiction Romance Subgenres</h3>
 
 <h4 class="post-show__title" id="space-opera-romance">Space Opera Romance</h4>
 <p>Cue the dramatic music and heart-stopping plot twists because Space Opera Romance is the grand theater of Sci-Fi Romance. You're in for epic space battles, sweeping political drama, and love stories that are literally out of this world. This subgenre takes your average romance stakes—like earning the approval of in-laws—and amps it up to having to broker peace between warring galaxies. Now that's what I call couple goals.</p>
@@ -1156,7 +1156,7 @@
 
 <p>Let’s forget hyperdrives for a second and delve into hyperlove as we explore the tropes that elevate Sci-Fi Romance to cosmic heights.</p>
 
-<h3 class="post-show__title" id="sci-fi-romance-tropes">Science Ficition Romance Tropes</h3>
+<h3 class="post-show__title" id="sci-fi-romance-tropes">Science fiction Romance Tropes</h3>
 
 <h4 class="post-show__title" id="galaxies-apart">Galaxies Apart</h4>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/galaxies-apart/permanent_image" alt="A man speaks with the hologram of his lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
