@@ -2,6 +2,8 @@
 > The current approach (March 2024) is to great a structure that focuses on ranking for as many sub-genres and tropes as possible. This means that the first phase will be to create the posts as shown. 
 > 
 > However, we will need to build about pillars and sub-pillars for the genre and sub-genre we are publishing books into. This means that once we have the basic structure, we will expand dark mafia into its own pillar or sub-pillar.
+> 
+> We need to keep trope and genre seperate as pillars.
 
 - [ ] Pillar - [[Speculative Romance - An Essential Genre Guide]]
 	- [ ] Sub-pillar - [[Fantasy Romance - A Genre Deep Dive]]
@@ -42,6 +44,9 @@
 
 - [ ] Pillar - [[Romance Fiction Tropes - An Essential Guide]]
 	- [ ] Sub-pillar - Speculative Romance Tropes - A Deep Dive
+		- [ ] Post - Fantasy Romance - An In-Depth Guide
+		- [ ] Post - Science Fiction Romance - An In-Depth Guide
+		- [ ] Post - Paranormal Romance - An In-Depth Guide
 	- [ ] Sub-pillar - Period Piece Tropes - A Deep Dive
 	- [ ] Sub-pillar - Inclusive Romance Tropes - A Deep Dive
 	- [ ] Sub-pillar - Age-based Romance Tropes - A Deep Dive
