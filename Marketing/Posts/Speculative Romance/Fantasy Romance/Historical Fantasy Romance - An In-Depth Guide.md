@@ -57,9 +57,17 @@
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/outlander-book-cover/permanent_image" alt="Outlander book cover" itemprop="contentUrl" width="200" height="150" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p>Set against the backdrop of 18th-century Scotland, 'Outlander' masterfully combines historical richness with the intrigue of time travel. Claire Randall's journey from 1945 to 1743 explores themes of love, loyalty, and survival in a tumultuous era. Her torn affections between two vastly different men in separate times encapsulate the heart of historical fantasy romance, blurring the lines between fidelity and desire, past and present.</p>
+
 <h3>Howl's Moving Castle by Diana Wynne Jones</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/howls-moving-castle/permanent_image" alt="Howls Moving Castle book cover" itemprop="contentUrl" width="200" height="150" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>This enchanting novel weaves a tale of magic and transformation. Sophie's curse and her quest for its reversal in the magical, ever-moving castle of Wizard Howl exemplifies the imaginative potential of historical fantasy romance. The story's blend of whimsical magic and personal discovery captures the essence of the genre, showcasing how even the most fantastical elements can have profound, character-driven implications.</p>
+
 <h3>The Wrath and the Dawn by Renée Ahdieh</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/the-wrath-and-the-dawn/permanent_image" alt="The Wrath and The Dawn book cover" itemprop="contentUrl" width="200" height="150" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>A tale inspired by 'One Thousand and One Nights,' this novel presents a gripping narrative of revenge, love, and the power of storytelling. Shahrzad's journey from seeking vengeance to discovering unexpected love highlights the depth and complexity of characters in historical fantasy romance. The setting, in a land ruled by a murderous king, provides a rich historical tapestry for a story of survival and emotional transformation.</p>
 
 <h2 class="post-show__sub-title" id="conclusion">Conclusion</h2>
