@@ -39,3 +39,12 @@
 - [ ] Pillar - [[Sensual & Explicit Romance - An Essential Genre Guide]]
 - [ ] Pillar - [[Staple Genres of Romance Fiction - An Essential Genre Guide]]
 - [ ] Pillar - [[Thematic Romance - An Essential Genre Guide]]
+
+- [ ] Pillar - [[Romance Fiction Tropes - An Essential Guide]]
+	- [ ] Sub-pillar - Speculative Romance Tropes - A Deep Dive
+	- [ ] Sub-pillar - Period Piece Tropes - A Deep Dive
+	- [ ] Sub-pillar - Inclusive Romance Tropes - A Deep Dive
+	- [ ] Sub-pillar - Age-based Romance Tropes - A Deep Dive
+	- [ ] Sub-pillar - Sensual & Explicit Romance  Tropes- A Deep Dive
+	- [ ] Sub-pillar - Staple Romance Tropes - A Deep Dive
+	- [ ] Sub-pillar - Thematic Romance Tropes - A Deep Dive
