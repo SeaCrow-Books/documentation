@@ -32,3 +32,10 @@
 		- [ ] Post - Psychic or Mind Powers Romance
 		- [ ] Post - Zombie Romance
 		- [ ] Post - Haunted Love
+
+- [ ] Pillar - [[Period Piece Romance - An Essential Genre Guide]]
+- [ ] Pillar - [[Inclusive Romance - An Essential Genre Guide]]
+- [ ] Pillar - [[Age Based Romance - An Essential Genre Guide]]
+- [ ] Pillar - [[Sensual & Explicit Romance - An Essential Genre Guide]]
+- [ ] Pillar - [[Staple Genres of Romance Fiction - An Essential Genre Guide]]
+- [ ] Pillar - [[Thematic Romance - An Essential Genre Guide]]

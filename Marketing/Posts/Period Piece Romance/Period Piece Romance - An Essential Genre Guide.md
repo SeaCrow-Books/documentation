@@ -1,6 +1,3 @@
-
-```
-
 <div class="table-of-contents card bg-light" id="toc">
   <p class="card-header table-of-contents__title">Table of Contents</p>
   <div class="card-body">
@@ -338,6 +335,3 @@
     </div>
   </div>
 </section>
-
-
-```

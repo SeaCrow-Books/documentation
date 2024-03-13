@@ -1,5 +1,3 @@
-```
-
 <p class="lead">Embark on an odyssey of emotion: from the sweet serendipities of holiday encounters to the shadowed whispers of mafia lovers, thematic romance invites every soul to its bold, boundless promenade.</p>
 
 
@@ -53,7 +51,7 @@
 
 <h2 class="post-show__sub-title" id="holiday-romance">Holiday Romance</h2>
 
-<img src="https://seacrowbooks.com/image_resources/christmas-love/permanent_image" alt="Lovers next to a Christmas tree" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/christmas-romance/permanent_image" alt="Lovers next to a Christmas tree" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p><strong>Holiday Romance</strong> envelops its audience in the warmth of seasonal cheer, often leveraging the magic of Christmas, the mystery of Halloween, or the romance of Valentine's Day. It's a subgenre where love stories are wrapped in tinsel and tied with a bow of mistletoe-kissed promises. Known for its themes of renewal and the spirit of giving, <a href="https://en.wikipedia.org/wiki/Romance_novel#Subgenres" target="_blank">Holiday Romance</a> often intertwines with other subgenres, such as small-town settings or second chances at love, offering a comforting predictability that fans adore. Recent trends have seen this genre subvert the classic 'happily ever after' with more realistic resolutions, reflecting modern relationships.</p>
 
@@ -104,7 +102,7 @@
 
 <h2 class="post-show__sub-title" id="sports-romance">Sports Romance (Athlete Romance)</h2>
 
-<img src="https://seacrowbooks.com/image_resources/two-runners/permanent_image" alt="Two runners" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sports-romance/permanent_image" alt="Two runners enjoy a scenic sunset run" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p><strong>Sports Romance</strong>, or Athlete Romance, is a playing field where passion and competition collide, creating a heady mix of endorphins and adrenaline. This subgenre showcases the grit and determination inherent in athletes, coupled with the vulnerability that love brings to the forefront. It's famous for its dynamic protagonists, often exploring the idea that physical strength and emotional openness can coexist, leading to a satisfying emotional victory. The allure here is in the juxtaposition of strength and tenderness, the fight for love mirroring the fight for success in the sports arena.</p>
 <p>The cultural impact of Sports Romance is palpable, as it often reflects contemporary issues within the sports world, including gender roles and the psychological pressures of high-stakes competition. It's not uncommon to find these athletic narratives crossing over with college settings, where young athletes navigate their formative years. This subgenre has seen a surge in popularity, with an enthusiastic readership drawn to the blend of high-octane scenarios and heart-stirring romance, echoing the communal spirit and universal appeal of sports.</p>
@@ -153,7 +151,7 @@
 
 <h2 class="post-show__sub-title" id="office-romance">Office Romance</h2>
 
-<img src="https://seacrowbooks.com/image_resources/office-romance/permanent_image" alt="two coworkers kissing" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/office-romance/permanent_image" alt="Two coworkers kissing" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p>When it comes to <strong>Office Romance</strong>, the thrill is in the forbidden – the stolen glances over cubicles and the tension amidst the click-clack of keyboards. It's a dance of desire set against the backdrop of professional decorum, where power dynamics and corporate intrigue add layers of complexity to the romantic plot. Office Romance is famous for its portrayal of ambitious protagonists who find themselves entangled in a delicious mix of business and pleasure. This subgenre often flirts with elements of drama and comedy, blurring the lines between personal and professional life in a narrative tango that readers find irresistibly captivating.</p>
 <p>The genre isn't shy about borrowing from other forms of romance either; it's not uncommon for an office romance to evolve into a secret baby trope or segue into a slow-burn love story that lasts multiple books in a series. Office Romance speaks to the modern-day reader, offering a dose of escapism that plays out in the very settings where many spend their days. Its cultural resonance is clear, tapping into the zeitgeist of contemporary work-life balance (or the lack thereof) and the age-old adage that love, much like life, finds a way—even amidst the office's nine-to-five rhythms.</p>
@@ -202,7 +200,7 @@
 
 <h2 class="post-show__sub-title" id="rockstar-romance">Rockstar Romance</h2>
 
-<img src="https://seacrowbooks.com/image_resources/rockstar/permanent_image" alt="Female rockstar" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/rockstar-romance/permanent_image" alt="Female rockstar " itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p><strong>Rockstar Romance</strong> strums the heartstrings with a backbeat of rebellion and the raw edge of passion. It's where the bad boys and girls of music meet their match in a crescendo of emotional and sensual tension. This subgenre is famous for its embodiment of the rock 'n' roll lifestyle—sex, drugs, and rock music—while exploring themes of fame, power, and the sacrifices made in the name of love. It's not just about the rhythm and the riffs; it's also about the high octane highs and the melancholic lows that come with celebrity romances. Trends in Rockstar Romance often see a departure from the clichéd ‘groupie love story’ to more complex narratives, with musically inclined protagonists seeking harmony in love and life.</p>
 <p>But it's not all power chords and pyrotechnics; these stories can be as nuanced as a soulful acoustic set, delving into the vulnerabilities hidden beneath a studded leather jacket. The cultural impact of Rockstar Romance is undeniable, reflecting society's fascination with the seductive allure of rockstars and the intense, often destructive nature of fame. It's a subgenre that resonates with anyone who's ever fantasized about dating a musician, offering an all-access pass to the exclusive backstage of the heart.</p>
@@ -253,7 +251,7 @@
 
 <h2 class="post-show__sub-title" id="college-romance">College Romance</h2>
 
-<img src="https://seacrowbooks.com/image_resources/university-lovers/permanent_image" alt="Two lovers at university" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/college-romance-2/permanent_image" alt="Two lovers at university" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p><strong>College Romance</strong> turns the page to chapters filled with first loves and the formative experiences that define adulthood. It captures the heady days of newfound independence and the emotional rollercoasters of young adulthood. This subgenre is celebrated for its exploration of self-discovery and the coming-of-age journey, set against the backdrop of dorm life, frat parties, and the pressure of academic achievement. It's a playing field for a wide range of emotional storylines, from the sweet and innocent to the scandalously steamy. College Romance often intersects with sports romance, given the prevalence of athletic heroes and heroines navigating the dual challenges of love and competitive sports in the college setting.</p>
 <p>Within the ivy-clad walls of College Romance, there’s a distinct trend towards addressing deeper social issues, like consent, mental health, and socioeconomic diversity, bringing a depth that belies the genre’s fun and flirty façade. Its popularity lies in its relatability; who doesn't remember the intensity of young love and the weight of the world that seemed to rest on every decision? The subgenre holds up a mirror to the tumultuous time in life where every emotion feels like forever, and every heartbreak like the end of the world, making it a cornerstone of thematic romance.</p>
@@ -315,7 +313,7 @@
 
 <h2 class="post-show__sub-title" id="mafia-romance">Mafia Romance</h2>
 
-<img src="https://seacrowbooks.com/image_resources/mafia-and-woman/permanent_image" alt="Mafia guy with his lover" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/mafia-romance/permanent_image" alt="Mafia guy with his lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p><strong>Mafia Romance</strong> delves into the underworld of organized crime, where danger is the currency and love the most treacherous gamble. It's a subgenre draped in the opulence of power and the griminess of the criminal underbelly, offering a stark contrast to the typical romance narrative. Famous for its anti-heroes and morally ambiguous characters, Mafia Romance flirts with the thrill of the forbidden and the allure of a world shrouded in secrecy. The dynamics of loyalty, honor, and the twisted rules of organized crime create a complex backdrop for fiery romances that often burn with an intensity that can either forge hearts together or shatter them completely.</p>
 <p>It's not just about passion; Mafia Romance also serves as a commentary on the intricate social hierarchies and the dark allure of the forbidden. The genre has witnessed a shift from glorifying the mafia lifestyle to scrutinizing the very fabric of its being, questioning the romance of a world that is, at its core, ruthlessly violent and patriarchal. This subgenre doesn't just cross lines—it redraws them, creating a labyrinth of emotional stakes where the danger is as intoxicating as the romance. With a readership equally enthralled and appalled by the stark moral dilemmas presented, Mafia Romance continues to be a potent force in the thematic romance category, an offer of escapism that many can't refuse.</p>
@@ -419,4 +417,3 @@
 <p>What might your preferred blend be in the grand tapestry of love's many-flavored stories? The allure of thematic romance lies in its boundless potential to match every mood, every season of our lives with a perfect narrative. As we toast to the romances that have been and those that are yet to come, let's revel in the fact that each one holds the potential to be the most thrilling, the most fulfilling yet.</p>
 
 <p>Keep your bookmarks handy and your reading nooks cozy, for the journey through the pages of thematic romance is endless. With a library of subgenres as vast as the stars above, your next literary love affair awaits. Watch this space for future forays into the heart's uncharted territories, where the next swoon-worthy tale is always just a page-turn away.</p>
-```
