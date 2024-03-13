@@ -1,5 +1,4 @@
-```
- <p class="lead">Where Undying Love is Taken Quite Literally </p>
+<p class="lead">Where Undying Love is Taken Quite Literally </p>
    
         <p>Welcome to the shadow-kissed world of Vampire Romance, where the night is just the beginning of our love story. Imagine a place where the heartbeat of romance throbs as intensely as the allure of the forbidden; this is where Vampire Romance reigns supreme. Here, the rules of love are rewritten by creatures who've been heartthrobs for, well, centuries (and they say experience counts for something!).</p>
         <p>In this tantalizing realm, we're not just talking about any old romance; oh no, we're talking about the kind that makes your heart race faster than a vampire on a midnight hunt. It's a world where falling in love means not just risking your heart, but maybe your neck too (talk about high stakes!). But fear not, dear reader, for this is the land where eternal love isn’t just a dream – it's a nightly adventure.</p>
@@ -21,7 +20,7 @@
     </div>
 
     <h3 class="post-show__sub-title" id="tone-and-character-archetypes">Tone and Character Archetypes</h3>
-    <img src="https://seacrowbooks.com/image_resources/vampire-kiss/permanent_image" alt="a vampire kisses a beautiful woman in an abandoned moonlit castle" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+   <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/vampire-kiss/permanent_image" alt="Two vampire share a passionate and bloody kiss" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
         <p>In the intoxicating world of Vampire Romance, the mood is as charged as a lightning-streaked night, and the characters are as captivating as am immortal's gaze. It's a world where the tone is dark and brooding, yet tinged with an electric thrill – kind of like a blind date with Dracula.</p>
         <p>Let's meet our usual suspects, shall we? First up, our vampire: brooding, mysterious, and eternally young (because who needs anti-aging cream when you've got immortality?). This isn't just your run-of-the-mill night dweller; this is a character who's seen centuries, knows all your secrets, and still rocks a cape like nobody's business.</p>
         <p>Then, enter the human: as innocent and unsuspecting as they come, often finding themselves in a love story that’s more bite than bark. They're the ones who bring a touch of sun to our vampire's moonlit world, often teaching our fanged friend a thing or two about humanity. Talk about an unlikely life coach!</p>
@@ -40,7 +39,7 @@
     </section>
 
     <h3 class="post-show__sub-title" id="quirks-and-ending-types">Quirks and Ending Types</h3>
-    <img src="https://seacrowbooks.com/image_resources/undying-love-vampire-romance/permanent_image" alt="a woman loving the caresses the coffin of her vampire lover" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+    <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/undying-love/permanent_image" alt="a woman sits at the coffin of her vampire lover" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
         <p>In the enchanting world of Vampire Romance, it's not just about who gets bitten – it's about the quirky twists and turns that make each story a unique blend of the macabre and the romantic. Let's peek behind the velvet curtain of this fascinating genre.</p>
         <p>First off, our vampire tales love to flirt with danger. Think moonlit rendezvous, whispers in the dark, and the occasional supernatural showdown. It's like your typical romantic drama, but with more bite and less whining about who left the toothpaste cap off.</p>
         <p>And then, there's the delightful quirk of time travel – without the need for a DeLorean. Vampires, with their centuries of experience, bring a whole new meaning to "old soul." They've seen empires rise and fall, which makes them terrific at history trivia and gives them an edge in the romance department (talk about long-term relationship experience!).</p>
@@ -57,11 +56,10 @@
 
 
     <h3 class="post-show__sub-title" id="conclusion">Conclusion</h3>
-    <img src="https://seacrowbooks.com/image_resources/vampiric-atmosphere/permanent_image" alt="a vampire stand strikingly against an ominous background filled with bats" width="" height="" class="img-fluid post-show__media rounded mx-auto d-block">
+    <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/vampire-atmosphere/permanent_image" alt="A vampire stands against an ominous background with bats swirling around him" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
         <p>And so, we come to the end of our moonlit stroll through the enchanting world of Vampire Romance, a genre that's as immortal as the creatures it celebrates. It's been a wild ride, filled with forbidden love, eternal longing, and the occasional existential vampire angst (because eternity gives you a lot of time to think).</p>
         <p>What makes Vampire Romance so irresistibly captivating? Is it the thrill of the forbidden, the allure of the night, or the seductive blend of danger and desire? Perhaps it's all of these, mixed together in a cocktail as heady as vampire's kiss.</p>
         <p>For me, the magic of Vampire Romance lies in its power to transport us to a world where love is as boundless as the night sky. It's a universe where every heartbeat is precious, every moment is intensified, and every love story is a dance with eternity.</p>
         <p>As we close the coffin lid on this adventure (just for now), let's remember that Vampire Romance is more than just tales of the supernatural. It's a celebration of the endless possibilities of love, a testament to the human (and not-so-human) spirit's capacity for passion, and a reminder that sometimes, the most extraordinary things happen after sunset.</p>
         <p>So, dear readers, keep your garlic handy, your stakes sharper, and your hearts open. The world of Vampire Romance awaits, ready to sweep you off your feet – or, at the very least, give you a nibble on the neck!</p>
     </section>
-```

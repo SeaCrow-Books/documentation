@@ -14,4 +14,21 @@
 		- [ ] Post - [[Swords & Sorcery Fantasy Romance - An In-Depth Guide]]
 		- [ ] Post - [[Fairy Tale Romance - An In-Depth Guide]]
 		- [ ] Post - [[Fae Romance - An In-Depth Guide]]
-		
+		- [ ] Post - [[Witch & Wizard Romance - An In-Depth Guide]]
+	- [ ] Sub-pillar: Science Fiction Romance - A Genre Deep Dive
+		- [ ] Post - Space Opera Romance
+		- [ ] Post - Alien Romance
+		- [ ] Post - Dystopian & Utopian Romance
+		- [ ] Post - Time Travel Romance
+		- [ ] Post - Steampunk Romance
+		- [ ] Post - Cyberpunk Romance
+		- [ ] Post - Robot & AI Romance
+	- [ ] Sub-pillar: Paranormal Romance - A Genre Deep Dive
+		- [ ] Post - [[Vampire Romance - An In Depth Guide]]
+		- [ ] Post - Ghost Romance
+		- [ ] Post - Werewolf and Shapeshifter Romance
+		- [ ] Post - Angel and Demon Romance
+		- [ ] Post - Sorcerer Romance
+		- [ ] Post - Psychic or Mind Powers Romance
+		- [ ] Post - Zombie Romance
+		- [ ] Post - Haunted Love

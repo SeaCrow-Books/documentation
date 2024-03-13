@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7c6f0ee6e31f9901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Posts/Pillar Posts/Inclusive Romance Pillar Post/Inclusive Romance HTML Pillar Post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Marketing/Posts/Pillar Posts/Inclusive Romance Pillar Post/Inclusive Romance HTML Pillar Post.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Marketing/Posts/Pillar Posts/Inclusive Romance Pillar Post/Inclusive Romance HTML Pillar Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md"
+                "file": "Marketing/Posts/Pillar Posts/Inclusive Romance Pillar Post/Inclusive Romance HTML Pillar Post.md"
               }
             }
           }
@@ -150,10 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cfc0697c85a838",
+  "active": "7c6f0ee6e31f9901",
   "lastOpenFiles": [
-    "Marketing/Posts/Speculative Romance/Speculative Romance - An Essential Genre Guide.md",
+    "Marketing/Posts/Pillar Posts/Age Based Romance Pillar Post/Age Based Romance Pillar Post Outline.md",
+    "Marketing/Posts/Pillar Posts/Age Based Romance Pillar Post/Age Based Pillar Post HTML.md",
+    "Marketing/Posts/Pillar Posts/Speculative Romance Pillar Post/Speculative Romance HTML Pillar Post.md",
     "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+    "Marketing/Posts/Speculative Romance/Paranormal Romance/Vampire Romance - An In Depth Guide.md",
+    "Marketing/Posts/Speculative Romance/Paranormal Romance",
+    "Marketing/Posts/Speculative Romance/Science Fiction Romance",
+    "Marketing/Posts/Speculative Romance/Fantasy Romance/Witch & Wizard Romance - An In-Depth Guide.md",
+    "Witch/Wizard Romance - An In-Depth Guide.md",
+    "Witch",
+    "Marketing/Posts/Speculative Romance/Speculative Romance - An Essential Genre Guide.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Fae Romance - An In-Depth Guide.md",
     "Fae Romance - An In-Depth Guide.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Fairy Tale Romance - An In-Depth Guide.md",
@@ -171,25 +193,16 @@
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Fantasy Romance - A Genre Deep Dive.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Fantasy Romance.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance",
-    "Marketing/Posts/Pillar Posts/Speculative Romance Pillar Post/Speculative Romance HTML Pillar Post.md",
     "Marketing/Posts/Speculative Romance/Speculative Romance - A Genre Guide",
     "Marketing/Posts/Speculative Romance",
     "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
     "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Witch/Wizard Romance.md",
     "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Witch",
-    "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Fea Fantasy Romance.md",
-    "Marketing/Posts/Sub-Pillar Posts/Speculative Romance Sub-pillar/Fea Fantsay Romance.md",
-    "Marketing/Workflow/!Posting Schedule.md",
-    "Marketing/Workflow/Posts Formatting/Post HTML Formatting.md",
-    "Marketing/Workflow/Blog/Reviews Workflow.md",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
     "Business/Archive",
     "Marketing/Email",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Character",
-    "Publishing/Workflow/Short Stories",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Untitled",
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-v1.epub",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-cover.jpg",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 2 - The Hideout/Version 1/the-hideout-cover.jpg",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the_heist.png",
