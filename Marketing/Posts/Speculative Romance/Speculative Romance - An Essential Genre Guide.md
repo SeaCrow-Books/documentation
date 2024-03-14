@@ -72,10 +72,6 @@
 
 <p>Currently, there's a trend in this subgenre for subverting traditional fantasy tropes, offering unique twists on age-old legends and archetypes. Readers seem to be gravitating towards strong, independent characters whose love arcs don't overshadow their individual development. Essentially, it's romance where both love and war demand their due, making for a gripping tale that satisfies on multiple fronts.</p>
 
-<div class="alert alert-primary" role="alert">
-  Find out more about <a href="https://seacrowbooks.com/blog/epic-fantasy-romance" class="alert-link">Epic Fantasy Romance with our deep dive</a>.
-</div>
-
 <h3 class="post-show__title" id="historical-fantasy-romance">Historical Fantasy Romance</h3>
 
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/male-and-female-knights/permanent_image" alt="Male and female knights in a forest." itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -83,10 +79,6 @@
 <p>Picture a regency ball but with magical elements sprinkled in, or perhaps a medieval setting where knights and ladies navigate not just societal norms but also magical realms. Historical Fantasy Romance takes well-known periods in history and spices them up with fantasy elements, making the settings both recognizable and wondrous. Love stories unfold amidst historically accurate details, enriched by dashes of magic or mythical creatures.</p>
 
 <p>While not directly connected to Epic Fantasy Romance, there's a similar attention to world-building in Historical Fantasy Romance. The past is recreated but with magical twists, and the love stories, often forbidden or challenged by societal norms, gain added tension and allure from the fantasy elements interwoven into the plot.</p>
-
-<div class="alert alert-primary" role="alert">
-  Read more about <a href="https://seacrowbooks.com/blog/historical-fantasy-romance" class="alert-link">Historical Fantasy Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="contemporary-fantasy-romance">Contemporary Fantasy Romance</h3>
 
@@ -96,10 +88,6 @@
 
 <p>What's noteworthy is the uptick in "small-town" Contemporary Fantasy Romances, featuring magical communities hidden within the mundane. This could be seen as a response to urban life's chaos, offering a fantasy escape that feels close to home.</p>
 
-<div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/contemporary-fantasy-romance" class="alert-link">Contemporary Fantasy Romance with our deep dive</a>.
-</div>
-
 <h3 class="post-show__title" id="urban-fantasy-romance">Urban Fantasy Romance</h3>
 
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/female-werewolf/permanent_image" alt="A female werewolf" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -107,10 +95,6 @@
 <p>If you took Contemporary Fantasy Romance and cranked up the city vibes, you'd get Urban Fantasy Romance. Set primarily in bustling urban landscapes, this subgenre explores romantic relationships in a world where supernatural beings and magical occurrences are almost as commonplace as a subway ride. It’s like a love story set against a city backdrop—only this city has magical alleyways, vampire-run nightclubs, and secret societies of wizards.</p>
 
 <p>Urban Fantasy Romance often overlaps with Contemporary Fantasy Romance, as both are set in a modern world infused with magic. The key distinction lies in the energy and pace dictated by the urban setting, often mirrored in the urgency and complexity of the romantic relationships developed.</p>
-
-<div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/urban-fantasy-romance" class="alert-link">Urban Fantasy Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="elfpunk-romance">Elfpunk Romance</h3>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/elfpunk/permanent_image" alt="A beautiful elf stares out the window of a modern coffee shop" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
@@ -123,25 +107,14 @@
 
 <p>Elfpunk invites readers into a world where enchantment and rebellion merge. Here, elves redefine their legends for today's audience, challenging their existence in a world where punk and elvish lore intertwine.</p>
 
-<div class="alert alert-primary" role="alert">
-  Learn more about <a href="https://seacrowbooks.com/blog/elfpunk-romance" class="alert-link">Elfpunk Romance with our deep dive</a>.
-</div>
-
 <h3 class="post-show__title" id="cozy-fantasy-romance">Cozy Fantasy Romance</h3>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/cozy-fantasy-romance/permanent_image" alt="Two roman fauns are on a date in a modern movie theater" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>If high stakes and intense battles aren't your cup of tea, Cozy Fantasy Romance might be your go-to. It’s the literary equivalent of a warm hug. Here, the focus is less on life-altering quests and more on interpersonal relationships, often set in a small community or a secluded magical space. It's an intimate corner within the larger Fantasy Romance genre where the stress levels are low, but the emotional stakes remain high.</p>
 
-<div class="alert alert-primary" role="alert">
-  Read more about <a href="https://seacrowbooks.com/blog/cozy-fantasy-romance" class="alert-link">Cosy Fantasy Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="swords-&-sorcery-romance">Swords & Sorcery Romance</h3>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/swords-and-sorcery/permanent_image" alt="A woman in shining armor tends to her magnificent horse" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Swords & Sorcery delivers what it promises—mighty warriors and cunning sorcerers, all set in worlds where magic and medieval settings are the norms. Romance in this subgenre usually involves characters who are intrinsically tied to these elements, such as a sword-wielding hero or a powerful sorceress, and their relationships add a human element to their extraordinary lives.</p>
-
-<div class="alert alert-primary" role="alert">
-  Learn more about <a href="https://seacrowbooks.com/blog/swords-and-sorcery-fantasy-romance" class="alert-link">Swords & Sorcery Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="fairy-tale-romance">Fairy Tale Romance</h3>
 
@@ -149,18 +122,9 @@
 
 <p>The classic tales of Cinderella or Beauty and the Beast get a revamp in Fairy Tale Romance. This subgenre takes familiar stories and retells them with added complexity, emotional depth, and, of course, romance. While Fairy Tale Romances often hold an air of nostalgia, they also challenge traditional narratives by empowering their characters in modern, relevant ways.</p>
 
-<div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/fairy-tale-romance" class="alert-link">Fairy Tale Romance with our deep dive</a>.
-</div>
-
 <h3 class="post-show__title" id="fae-romance">Fae Romance</h3>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/fae-romance/permanent_image" alt="Two dark fae beings embrace in a cursed forest" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 <p>Set in worlds brimming with faeries, Fae Romance explores relationships that are as complex and mysterious as the magical beings it features. Here, love stories often involve bargains, challenges, and intricate lore, taking the characters—and the reader—on a wild emotional ride. It shares a kinship with Fairy Tale Romance, but with a darker, more intricate approach to fae mythology.</p>
-
-
-<div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/fae-romance" class="alert-link">Fae Fantasy Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="witch/wizard-romance">Witch/Wizard Romance</h3>
 
@@ -171,7 +135,7 @@
 <p>This whirlwind tour of Fantasy Romance subgenres shows the genre's breadth, allowing readers to pick their poison—or potion—when it comes to love stories set against magical canvases. But the picture is incomplete without the accompanying tropes.</p>
 
 <div class="alert alert-primary" role="alert">
-  Learn more about <a href="https://seacrowbooks.com/blog/witch-and-wizard-romance" class="alert-link">Witch/Wizard Romance with our deep dive</a>.
+  Discover more about <a href="https://seacrowbooks.com/blog/fantasy-romance" class="alert-link">Fantasy Romance with our deep dive</a>.
 </div>
 
 <h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance</h2>
