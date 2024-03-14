@@ -1,4 +1,13 @@
-<p class="lead"><em>Where otherworldly enchantments meet palpable heartbeats</em></p>
+<div class="alert alert-secondary" role="alert">
+  <p><a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>
+  <p>Speculative romance is a genre blending the classic allure of romance with the imaginative twists of speculative fiction, creating stories where love transcends the bounds of the ordinary world, inviting readers into realms of magic, futuristic wonder, and paranormal intrigue.</p>
+  <ul>
+    <li>Fantasy Romance</li>
+    <li>Science Fiction Romance</li>
+    <li>Paranormal Romance</li>
+    </ul>
+</div>
+
 
 <p>If Jane Austen and J.R.R. Tolkien had a literary love child, it would be speculative romance. Just think about it—a genre that takes the timeless dance of love and attraction and elevates it with a sprinkling of magic spells, starships, or even a casual werewolf or two. Who wouldn't swipe right on that combination? The point is, traditional love stories are charming, but speculative romance is the charismatic rebel who just strolled into the room, complete with a mysterious aura and that intoxicating whiff of danger.</p>
 
