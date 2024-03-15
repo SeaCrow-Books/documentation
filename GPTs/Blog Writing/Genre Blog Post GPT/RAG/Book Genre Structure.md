@@ -10,7 +10,7 @@
 		- Sub-sub-Genre - Fairy Tale Romance
 		- Sub-sub-Genre - Fae Romance
 		- Sub-sub-Genre - Witch & Wizard Romance
-    - Sub-pillar: Science Fiction Romance
+    - Sub-Genre: Science Fiction Romance
 		- Sub-sub-Genre - Space Opera Romance
 		- Sub-sub-Genre - Alien Romance
 		- Sub-sub-Genre - Dystopian & Utopian Romance
@@ -18,7 +18,7 @@
 		- Sub-sub-Genre - Steampunk Romance
 		- Sub-sub-Genre - Cyberpunk Romance
 		- Sub-sub-Genre - Robot & AI Romance
-    - Sub-pillar: Paranormal Romance
+    - Sub-Genre: Paranormal Romance
 		- Vampire Romance
 		- Ghost Romance
 		- Werewolf and Shapeshifter Romance

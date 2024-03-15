@@ -32,9 +32,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de815ea3dc70dab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md"
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md"
               }
             }
           }
@@ -163,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f247cab94bc3111",
+  "active": "43cfc0697c85a838",
   "lastOpenFiles": [
+    "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
     "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
     "GPTs/Blog Writing/Genre Blog Post GPT/Instructions/Genre Blog Post Instructions.md",
@@ -172,7 +184,6 @@
     "GPTs/Blog Writing/Genre Blog Post GPT/RAG",
     "GPTs/Blog Writing/Genre Blog Post GPT/Instructions",
     "GPTs",
-    "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
     "GPTs/Blog Writing/Genre Blog Post GPT",
     "Marketing/Posts/Speculative Romance/Science Fiction Romance/Space Opera Romance - An In-Depth Guide.md",
     "Publishing/AI/GPTs/GPT System Prompts.md",
