@@ -29,6 +29,9 @@
 		- Haunted Love
 - Genre - Period Piece Romance
 - Genre - Inclusive Romance
+	- Sub-genre - LGBTQ+ Romance
+	- Sub-genre - Cross-Cultural & Interracial
+	- Sub-genre - OwnVoices Romance
 - Genre - Age Based Romance
 - Genre - Sensual & Explicit Romance
 - Genre - Staple Genres of Romance Fiction

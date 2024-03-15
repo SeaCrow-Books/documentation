@@ -37,6 +37,9 @@
 
 - [ ] Pillar - [[Period Piece Romance - An Essential Genre Guide]]
 - [ ] Pillar - [[Inclusive Romance - An Essential Genre Guide]]
+	- [ ] Sub-pillar - LGBTQ+ Romance
+	- [ ] Sub-pillar - Cross-Cultural & Interracial
+	- [ ] Sub-pillar - OwnVoices Romance
 - [ ] Pillar - [[Age Based Romance - An Essential Genre Guide]]
 - [ ] Pillar - [[Sensual & Explicit Romance - An Essential Genre Guide]]
 - [ ] Pillar - [[Staple Genres of Romance Fiction - An Essential Genre Guide]]
