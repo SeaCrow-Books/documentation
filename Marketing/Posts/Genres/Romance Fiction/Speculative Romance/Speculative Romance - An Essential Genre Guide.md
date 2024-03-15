@@ -69,6 +69,22 @@
 
 <h2 class="post-show__title" id="fantasy-romance">Fantasy Romance</h2>
 
+<div class="alert alert-secondary" role="alert">
+  <p>Fantasy Romance, or "Romantasy," blends the emotional depth of romance with fantasy's imaginative realms, offering stories of love in enchanted settings or amid epic quests, appealing to a wide range of readers.</p>
+    <ul>
+        <li>Epic Fantasy Romance</li>
+        <li>Historical Fantasy Romance</li>
+        <li>Contemporary Fantasy Romance</li>
+        <li>Urban Fantasy Romance</li>
+        <li>Elfpunk Romance</li>
+        <li>Cozy Fantasy Romance</li>
+        <li>Swords & Sorcery Romance</li>
+        <li>Fairy Tale Romance</li>
+        <li>Fae Romance</li>
+        <li>Witch/Wizard Romance</li>
+    </ul>
+</div>
+
 <p>Fantasy Romance—or "<a hef="https://www.theguardian.com/books/2024/feb/02/romantasy-literary-genre-booktok">Romantasy</a>," as it's endearingly nicknamed—is like a love potion brewed from the essence of two timeless genres. It combines the heart-tugging allure of romance with the imaginative scope of fantasy. This hybrid offers an expansive playground for love to manifest—in enchanted forests, royal palaces, or even in the heat of battle against dark sorcery.</p>
 
 <p>What makes this genre so appealing is its flexibility. On one hand, you have stories that feel like a traditional romance but are laced with fantastical elements. Maybe the heroine is a potion-maker finding love, or perhaps a fateful prophecy entwines two hearts together. On the other hand, some Romantasy novels are primarily epic fantasies where a romantic subplot adds another layer of emotional stakes. In these stories, the protagonist isn't just on a quest to save the realm but also navigating a complex relationship, adding both tension and depth to their journey.</p>
@@ -149,6 +165,20 @@
 
 <h2 class="post-show__title" id="sci-fi-romance">Science fiction Romance</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/sci-fi-romance/permanent_image" alt="A couple stand back to back with laser guns in a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
+<div class="alert alert-secondary" role="alert">
+  <p>Sci-Fi Romance launches readers into a universe of passion and intrigue, blending futuristic technology and extraterrestrial romance with high-stakes adventures, making it a vibrant and limitless genre for exploring love across the cosmos.</p>
+    <ul>
+        <li>Space Opera Romance</li>
+        <li>Alien Romance</li>
+        <li>Dystopian/Utopian Romance</li>
+        <li>Time Travel Romance</li>
+        <li>Steampunk Romance</li>
+        <li>Cyberpunk Romance</li>
+        <li>Robot/AI Romance</li>
+    </ul>
+</div>
+
 <p>Strap into your spacecraft, darlings, because Sci-Fi Romance is here to rocket you into galaxies of passion and intrigue. The fusion of advanced technology, extraterrestrial settings, and tantalizing human (or non-human) connection creates an otherworldly tapestry of love. Picture it: sharing a forbidden kiss in zero-gravity while dodging space pirates or falling head over heels for an android with a "heart" of gold—it's enough to make even the coolest Vulcans swoon.</p>
 
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
@@ -193,6 +223,21 @@
 
 <h2 class="post-show__title" id="paranormal-romance">Paranormal Romance</h2>
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/paranormal-romance/permanent_image" alt="A vampire lord and lady sit on a massive throne in a gothic cathedral" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
+<div class="alert alert-secondary" role="alert">
+  <p>Paranormal Romance blends the thrill of supernatural beings with the allure of romance, offering escapism and excitement in stories where love transcends the ordinary, inviting readers into worlds where the heartbeats sync with the supernatural.</p>
+    <ul>
+        <li>Vampire Romance</li>
+        <li>Ghost Romance</li>
+        <li>Werewolf and Shapeshifter Romance</li>
+        <li>Angel and Demon Romance</li>
+        <li>Sorcerer Romance</li>
+        <li>Psychic or Mind Powers Romance</li>
+        <li>Zombie Romance</li>
+        <li>Haunted Love</li>
+    </ul>
+</div>
+
 <p>Paranormal Romance is the love child of romance and the supernatural, where fangs, fur, and phantasms meet fluttering hearts. Forget about reality's pesky limitations; here, you're invited to court danger and desire in equal measure. This genre adds a supernatural spin to love stories, casting ghosts, witches, vampires, shapeshifters, and more as the heartthrobs and heroines that make your pulses race and pages turn. Think Mr. Darcy with a dash of Dracula or Elizabeth Bennet as a spell-casting enchantress.</p>
 
 <p>Now, what gives Paranormal Romance its magnetic pull? Could be the allure of forbidden love or the spice of danger that accompanies romancing a creature from the netherworld. But I think it's the ultimate escapism, providing a sandbox rich with mythical elements that raise the stakes of love to exhilarating levels. This genre tends to dance on the line between horror and romance, serving chills and thrills along with the smooches. A quick scroll through trending booklists will tell you: whether it's contemporary settings with a hidden supernatural underworld or historical backdrops with a magical twist, Paranormal Romance offers a blend that readers find irresistible.</p>
@@ -202,10 +247,6 @@
 <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/paranormal-romance/permanent_image" alt="A vampire lord and lady sit on a massive throne in a gothic cathedral" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
 <p>A subgenre you can really sink your teeth into, Vampire Romance adds an intoxicating blend of dark allure and forbidden love to the romantic formula. Imagine centuries-old beings who've seen it all, yet still possess an insatiable thirst for, well, you know what. When you look past all the blood, gore, and occasional sparkles, the genre is really about an eternal love that transcends time. In recent years, the Twilight series brought this subgenre out of the coffin and into the mainstream, making angst-ridden vampires the brooding beaus of the literary world.</p>
-
-<div class="alert alert-primary" role="alert">
-  Discover more about <a href="https://seacrowbooks.com/blog/vampire-romance" class="alert-link">Vampire Romance with our deep dive</a>.
-</div>
 
 <h3 class="post-show__title" id="ghost-romance">Ghost Romance</h3>
 <p>The love story you can't touch—literally. This subgenre often delves into themes of eternal love and the ability of love to transcend even death. Readers can't seem to get enough of this ethereal blend, which delivers a unique take on "till death do us part." Imagine falling for someone who can walk through walls but can't hold you. The unattainable has never been so enticing. And let's not forget the classic ghost romance movies that have left an indelible impact, immortalizing this subgenre.</p>

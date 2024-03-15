@@ -1,18 +1,27 @@
-<p class="lead"><em>A Roadmap to Heartthrobs, Heartbreaks, and Happily Ever Afters</em></p>
+<div class="alert alert-secondary" role="alert">
+  <p><a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>
+  <p>This guide navigates the expansive and evolving romance genre, highlighting its core of deep connections and emotionally satisfying endings, proving there's a diverse and thrilling world beyond the clichés, ready to capture every reader's heart.</p>
+  	<ul>
+		<li>Period Piece Romance</li>
+		<li>Speculative Romance</li>
+		<li>Inclusive Romance</li>
+		<li>Age Based Romance</li>
+		<li>Sensual & Explicit Romance</li>
+		<li>Staples of the Genre</li>
+		<li>Thematic Romance</li>
+	</ul>
+</div>
 
 <p>Romance isn't just about stolen stares or pebbles thrown at windows anymore. The genre's grown up, donned its stilettos, and ventured into uncharted territories. But readers can feel a bit overwhelmed in this new, vast landscape. So I crafted this guide to lead you through the intricate twists and turns of the romance genre. By the end of it, you'll be able to tell an enemies-to-lovers trope from a second-chance romance without batting an eye.</p>
 
 <p>At its core, romance fiction is built on two pillars that are as timeless as that little black dress hanging in your closet:</p>
 
-<p><strong>A Central Connection:</strong> This isn't just about two people meeting at a bar. It's about their journey, their doubts, and the electric charge that draws them together. Raw, human connection is at the heart of any good romance novel.</p>
-
-<p><strong>An Emotionally Rewarding Ending:</strong> Whether it's a tear-jerking climax or a heartwarming resolution, you’re assured of a happily ever after (or at least a happy-for-now) conclusion that'll leave you scrabbling for the sequel.</p>
+<ul>
+	<li><strong>A Central Connection:</strong> This isn't just about two people meeting at a bar. It's about their journey, their doubts, and the electric charge that draws them together. Raw, human connection is at the heart of any good romance novel.</li>
+	<li><strong>An Emotionally Rewarding Ending:</strong> Whether it's a tear-jerking climax or a heartwarming resolution, you’re assured of a happily ever after (or at least a happy-for-now) conclusion that'll leave you scrabbling for the sequel.</li>
+</ul>
 
 <p>But if you're assuming these elements render romance predictable, think again. Believe me, there's a blend of genre, trope, and sizzle out there that'll give your cheeks just the right shade of intrigue.</p>
-
-<h2>Wondering How Many Romance Sub-Genres Are There?</h2>
-
-<p>It honestly seems like more are popping up every week, but below are the main staples of the genre (and a few notable mentions). It can be a little overwhelming so here’s a little breakdown first.</p>
 
 <div class="table-of-contents card bg-light" id="toc">
     <p class="card-header table-of-contents__title">Romance Sub-Genres</p>
@@ -31,9 +40,9 @@
 </div>
 
 <h2 class="post-show__title" id="period-piece-romance"><a href="https://staging.seacrowbooks.com/blog/period-piece-romance">Period Piece Romance</a></h2>
-<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/epic-fantasy-romance/permanent_image" alt="a sorceress heals a wounded knight in the forest" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/epic-fantasy-romance/permanent_image"https://seacrowbooks.com/blog/romance-fiction alt="a sorceress heals a wounded knight in the forest" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
 
-<p><a href="https://staging.seacrowbooks.com/blog/period-piece-romance">Period pieces</a> transport readers to a bygone era, where societal constraints, cultural norms, and historical events add layers of intrigue to the relationships. These novels meticulously recreate the past, immersing readers in the intricate details of the chosen time period.</p> 
+<p>Period pieces transport readers to a bygone era, where societal constraints, cultural norms, and historical events add layers of intrigue to the relationships. These novels meticulously recreate the past, immersing readers in the intricate details of the chosen time period.</p> 
 
 <h3 class="post-show__sub-title" id="historical">Historical</h3>
 <p>Historical Romance was the poster girl for Romance Fiction for years, and for good reason. Below are some popular periods in chronological order.</p>
