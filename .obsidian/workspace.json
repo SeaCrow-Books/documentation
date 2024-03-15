@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md"
               }
             }
           }
@@ -163,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "208dc926210a92ed",
+  "active": "43cfc0697c85a838",
   "lastOpenFiles": [
-    "Business/Tasks & Projects/Projects/SEO Optimization & Standardization for Pillar Posts.md",
     "Tasks.md",
+    "Business/Tasks & Projects/Projects/SEO Optimization & Standardization for Pillar Posts.md",
     "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
     "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
