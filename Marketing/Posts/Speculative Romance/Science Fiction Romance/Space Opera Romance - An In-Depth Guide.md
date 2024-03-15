@@ -32,8 +32,6 @@
 
 <h2 id="tropes">Tropes</h2>
 
-<h2 id="tropes">Tropes</h2>
-
 <p>In the heart of every Space Opera Romance lies a galaxy of tropes, each serving as a star guiding the narrative journey. These tropes, while familiar, are reimagined and revitalized in the vastness of space, where the only limit is the author's imagination.</p>
 
 <p>First among these is the <strong>Star-Crossed Lovers</strong> trope, where lovers find themselves separated not just by societal expectations or personal duty but by light-years and star systems. Their love story, set against the infinite canvas of the cosmos, reminds us that love knows no bounds, not even the vast distances of space.</p>
@@ -111,3 +109,7 @@
 <p>In conclusion, Space Opera Romance is not just a genre; it's a voyage to the farthest reaches of both space and the human heart. Whether you're a long-time fan or a newcomer to its wonders, there's always more to discover, more to explore, and more to love in the ever-expanding universe of Space Opera Romance.</p>
 
 <p>For those intrigued by the blend of adventure and romance, the tales of star-crossed lovers and cosmic quests, I encourage you to dive into the books mentioned and lose yourself in the stories that span galaxies. And remember, in the vastness of space, love is the most powerful force of all.</p>
+
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://seacrowbooks.com/blog/science-fiction-romance">Science Fiction Romance with our genre deep dive.</a>
+</div>
