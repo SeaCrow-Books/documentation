@@ -5,6 +5,12 @@
 > 
 > We need to keep trope and genre separate as pillars.
 
+## Genre
+
+- [ ] Pillar - [[Period Piece Romance - An Essential Genre Guide]]
+	- [ ] Sub-pillar - Historical Romance
+	- [ ] Sub-pillar - Contemporary Romance
+
 - [ ] Pillar - [[Speculative Romance - An Essential Genre Guide]]
 	- [ ] Sub-pillar - [[Fantasy Romance - A Genre Deep Dive]]
 		- [ ] Post - [[Epic Fantasy Romance - An In-Depth Guide]]
@@ -34,16 +40,34 @@
 		- [ ] Post - Psychic or Mind Powers Romance
 		- [ ] Post - Zombie Romance
 		- [ ] Post - Haunted Love
+		- [ ] 
 
-- [ ] Pillar - [[Period Piece Romance - An Essential Genre Guide]]
 - [ ] Pillar - [[Inclusive Romance - An Essential Genre Guide]]
 	- [ ] Sub-pillar - LGBTQ+ Romance
 	- [ ] Sub-pillar - Cross-Cultural & Interracial
 	- [ ] Sub-pillar - OwnVoices Romance
+
 - [ ] Pillar - [[Age Based Romance - An Essential Genre Guide]]
+	- [ ] Sub-pillar - Young Adult Romance
+	- [ ] Sub-pillar - New Adult Romance
+
 - [ ] Pillar - [[Sensual & Explicit Romance - An Essential Genre Guide]]
+	- [ ] Sub-pillar - Dark Romance
+	- [ ] Sub-pillar - Erotic Romance
+	- [ ] Sub-pillar - Sweet & Clean Romance
+
 - [ ] Pillar - [[Staple Genres of Romance Fiction - An Essential Genre Guide]]
+	- [ ] Sub-pillar - Romantic Comedy
+	- [ ] Sub-pillar - Suspense Romance
+
 - [ ] Pillar - [[Thematic Romance - An Essential Genre Guide]]
+	- [ ] Sub-pillar - Holiday Romance
+	- [ ] Sub-pillar - Sports Romance
+	- [ ] Sub-pillar - Office Romance
+	- [ ] Sub-pillar - Rockstar Romance
+	- [ ] Sub-pillar - College Romance
+	- [ ] Sub-pillar - Mafia Romance
+## Tropes
 
 - [ ] Pillar - [[Romance Fiction Tropes - An Essential Guide]]
 	- [ ] Sub-pillar - Speculative Romance Tropes - A Deep Dive

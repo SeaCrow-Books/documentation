@@ -1,3 +1,6 @@
+- Genre - Period Piece Romance
+    - Sub-genre - Historical Romance
+    - Sub-genre - Contemporary Romance
 - Genre - Speculative Romance
 	- Sub-Genre - Fantasy Romance
 		- Sub-sub-Genre - Epic Fantasy Romance
@@ -19,20 +22,32 @@
 		- Sub-sub-Genre - Cyberpunk Romance
 		- Sub-sub-Genre - Robot & AI Romance
     - Sub-Genre: Paranormal Romance
-		- Vampire Romance
-		- Ghost Romance
-		- Werewolf and Shapeshifter Romance
-		- Angel and Demon Romance
-		- Sorcerer Romance
-		- Psychic or Mind Powers Romance
-		- Zombie Romance
-		- Haunted Love
-- Genre - Period Piece Romance
+		- Sub-sub-Genre - Vampire Romance
+		- Sub-sub-Genre - Ghost Romance
+		- Sub-sub-Genre - Werewolf and Shapeshifter Romance
+		- Sub-sub-Genre - Angel and Demon Romance
+		- Sub-sub-Genre - Sorcerer Romance
+		- Sub-sub-Genre - Psychic or Mind Powers Romance
+		- Sub-sub-Genre - Zombie Romance
+		- Sub-sub-Genre - Haunted Love
 - Genre - Inclusive Romance
 	- Sub-genre - LGBTQ+ Romance
 	- Sub-genre - Cross-Cultural & Interracial
 	- Sub-genre - OwnVoices Romance
 - Genre - Age Based Romance
+    - Sub-genre - Young Adult Romance
+    - Sub-genre - New Adult Romance
 - Genre - Sensual & Explicit Romance
+    - Sub-genre - Dark Romance
+    - Sub-genre - Erotic Romance
+    - Sub-genre - Sweet & Clean Romance
 - Genre - Staple Genres of Romance Fiction
+    - Sub-genre - Romantic Comedy
+    - Sub-genre - Suspense Romance
 - Genre - Thematic Romance
+    - Sub-genre - Holiday Romance
+    - Sub-genre - Sports Romance
+    - Sub-genre - Office Romance
+    - Sub-genre - Rockstar Romance
+    - Sub-genre - College Romance
+    - Sub-genre - Mafia Romance
