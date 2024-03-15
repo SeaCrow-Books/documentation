@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "208dc926210a92ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -150,13 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cfc0697c85a838",
+  "active": "208dc926210a92ed",
   "lastOpenFiles": [
+    "Business/Tasks & Projects/Projects/SEO Optimization & Standardization for Pillar Posts.md",
+    "Tasks.md",
+    "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
     "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
     "Marketing/Posts/Tropes/Romance Fiction Tropes/Romance Fiction Tropes - An Essential Guide.md",
     "Marketing/Posts/Tropes/Romance Fiction Tropes",
-    "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "Marketing/Posts/Tropes",
     "Marketing/Posts/Genres/Romance Fiction/Thematic Romance/Thematic Romance - An Essential Genre Guide.md",
     "Marketing/Posts/Genres/Romance Fiction/Thematic Romance",
@@ -186,8 +201,6 @@
     "Marketing/Posts/Genres/Romance Fiction/Romance Fiction Tropes",
     "Marketing/Posts/Genres/Romance Fiction/Period Piece Romance/Period Piece Romance - An Essential Genre Guide.md",
     "Marketing/Posts/Genres/Romance Fiction/Inclusive Romance/Inclusive Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Genres/Romance Fiction/Age Based Romance/Age Based Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Genres/Romance Fiction/Romance Fiction - An Essential Genre Guide.md",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-cover.jpg",
