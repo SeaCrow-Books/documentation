@@ -1,0 +1,35 @@
+- Genre - Speculative Romance
+	- Sub-Genre - Fantasy Romance
+		- Sub-sub-Genre - Epic Fantasy Romance
+		- Sub-sub-Genre - Historical Fantasy Romance
+		- Sub-sub-Genre - Contemporary Fantasy Romance
+		- Sub-sub-Genre - Urban Fantasy Romance
+		- Sub-sub-Genre - Elfpunk Romance
+		- Sub-sub-Genre - Cozy Fantasy Romance
+		- Sub-sub-Genre - Swords & Sorcery Fantasy Romance
+		- Sub-sub-Genre - Fairy Tale Romance
+		- Sub-sub-Genre - Fae Romance
+		- Sub-sub-Genre - Witch & Wizard Romance
+    - Sub-pillar: Science Fiction Romance
+		- Sub-sub-Genre - Space Opera Romance
+		- Sub-sub-Genre - Alien Romance
+		- Sub-sub-Genre - Dystopian & Utopian Romance
+		- Sub-sub-Genre - Time Travel Romance
+		- Sub-sub-Genre - Steampunk Romance
+		- Sub-sub-Genre - Cyberpunk Romance
+		- Sub-sub-Genre - Robot & AI Romance
+    - Sub-pillar: Paranormal Romance
+		- Vampire Romance
+		- Ghost Romance
+		- Werewolf and Shapeshifter Romance
+		- Angel and Demon Romance
+		- Sorcerer Romance
+		- Psychic or Mind Powers Romance
+		- Zombie Romance
+		- Haunted Love
+- Genre - Period Piece Romance
+- Genre - Inclusive Romance
+- Genre - Age Based Romance
+- Genre - Sensual & Explicit Romance
+- Genre - Staple Genres of Romance Fiction
+- Genre - Thematic Romance

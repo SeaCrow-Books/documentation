@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "1f3dcd80f531869d",
+            "id": "5f247cab94bc3111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md"
+                "file": "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md"
               }
             }
           }
@@ -163,11 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f3dcd80f531869d",
+  "active": "5f247cab94bc3111",
   "lastOpenFiles": [
     "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
-    "Publishing/AI/GPTs/GPT System Prompts.md",
+    "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
+    "GPTs/Blog Writing/Genre Blog Post GPT/Instructions/Genre Blog Post Instructions.md",
+    "GPTs/Blog Writing",
+    "GPTs/Blog Writing/Genre Blog Post GPT/RAG",
+    "GPTs/Blog Writing/Genre Blog Post GPT/Instructions",
+    "GPTs",
     "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
+    "GPTs/Blog Writing/Genre Blog Post GPT",
+    "Marketing/Posts/Speculative Romance/Science Fiction Romance/Space Opera Romance - An In-Depth Guide.md",
+    "Publishing/AI/GPTs/GPT System Prompts.md",
     "Marketing/Pillar Approach/Pillar Posts Outline/Genre Pillar Posts Outline.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Fantasy Romance - A Genre Deep Dive.md",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Contemporary Fantasy Romance - An In-Depth Guide.md",
@@ -182,25 +190,17 @@
     "Marketing/Posts/Staples of the Genre/Staple Genres of Romance Fiction - An Essential Genre Guide.md",
     "Marketing/Posts/Staples of the Genre",
     "Marketing/Posts/Sensual & Explicit Romance/Sensual & Explicit Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Sensual & Explicit Romance",
     "Marketing/Posts/Age Based Romance/Age Based Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Age Based Romance",
     "Marketing/Posts/Inclusive Romance/Inclusive Romance - An Essential Genre Guide.md",
     "Marketing/Posts/Pillar Posts/Main Pillar Post/The Ultimate Guide To Romance Fiction.md",
-    "Marketing/Posts/Inclusive Romance",
     "Marketing/Posts/Period Piece Romance/Period Piece Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Period Piece Romance",
     "Marketing/Posts/Pillar Posts/Inclusive Romance Pillar Post/Inclusive Romance HTML Pillar Post.md",
     "Marketing/Posts/Pillar Posts/Age Based Romance Pillar Post/Age Based Romance Pillar Post Outline.md",
     "Marketing/Posts/Pillar Posts/Age Based Romance Pillar Post/Age Based Pillar Post HTML.md",
     "Marketing/Posts/Pillar Posts/Speculative Romance Pillar Post/Speculative Romance HTML Pillar Post.md",
     "Marketing/Posts/Speculative Romance/Paranormal Romance/Vampire Romance - An In Depth Guide.md",
-    "Marketing/Posts/Speculative Romance/Paranormal Romance",
     "Marketing/Posts/Speculative Romance/Fantasy Romance/Witch & Wizard Romance - An In-Depth Guide.md",
     "Witch/Wizard Romance - An In-Depth Guide.md",
-    "Marketing/Posts/Speculative Romance/Speculative Romance - An Essential Genre Guide.md",
-    "Marketing/Posts/Speculative Romance/Fantasy Romance/Fae Romance - An In-Depth Guide.md",
-    "Fae Romance - An In-Depth Guide.md",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-cover.jpg",

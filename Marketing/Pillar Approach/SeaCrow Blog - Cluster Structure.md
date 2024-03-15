@@ -18,7 +18,7 @@
 		- [ ] Post - [[Fae Romance - An In-Depth Guide]]
 		- [ ] Post - [[Witch & Wizard Romance - An In-Depth Guide]]
 	- [ ] Sub-pillar: Science Fiction Romance - A Genre Deep Dive
-		- [ ] Post - Space Opera Romance
+		- [ ] Post - [[Space Opera Romance - An In-Depth Guide]]
 		- [ ] Post - Alien Romance
 		- [ ] Post - Dystopian & Utopian Romance
 		- [ ] Post - Time Travel Romance
