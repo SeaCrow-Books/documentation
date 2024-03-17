@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bdadcd77d08a6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -162,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cfc0697c85a838",
+  "active": "8bdadcd77d08a6f8",
   "lastOpenFiles": [
+    "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "Tasks.md",
     "Business/Tasks & Projects/Projects/SEO Optimization & Standardization for Pillar Posts.md",
-    "Marketing/Pillar Approach/SeaCrow Blog - Cluster Structure.md",
     "GPTs/Blog Writing/Genre Blog Post GPT/RAG/Book Genre Structure.md",
     "Marketing/AI/GPTs/Sub-Genre Post Writer GPT.md",
     "Marketing/Posts/Tropes/Romance Fiction Tropes/Romance Fiction Tropes - An Essential Guide.md",
