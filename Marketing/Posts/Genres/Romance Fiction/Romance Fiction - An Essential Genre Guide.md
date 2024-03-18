@@ -93,6 +93,9 @@ To discover more about Period piece romance, read <a href="https://seacrowbooks.
 <p>Speculative Romance intricately weaves the boundless possibilities of the speculative genre—be it science fiction, fantasy, or paranormal elements—with the heartfelt journey of romance. In these narratives, the love stories transcend the ordinary, venturing into realms where time travel can separate soulmates, where alien planets become stages for passion, and where magic weaves through the very fabric of the relationships. This genre melds the exploration of new worlds, technologies, and magical systems with the universal quest for love, creating a multidimensional tapestry of narratives. The speculative twist not only enriches the backdrop against which these romances unfold but also adds unprecedented obstacles and challenges, making the pursuit of love all the more thrilling. Whether it's lovers divided by cosmic wars, united by spells cast under moonlit skies, or challenged by the ethics of artificial intelligence, Speculative Romance offers a unique fusion that captivates readers by pushing the boundaries of both romance and speculative fiction, delivering stories where the emotion is as infinite as the universes they explore.</p>
 
 <h3 class="post-show__sub-title" id="fantasy-romance">Fantasy Romance</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/fantasy-romance/permanent_image" alt="Fantasy Romance - two lovers kissing" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>Set in magical lands, the distant past, or an alternative version of our own world, this genre is known for intricate plots, political relations, and the use of enchantments to test the extent of love’s resilience. Beyond spells and sorcery, the genre is enriched by the romantic allure of fantasy races, whether elves, witches, or steamy barbarians.</p>
 
 <ul>
@@ -109,6 +112,7 @@ To discover more about Period piece romance, read <a href="https://seacrowbooks.
 </ul>
 
 <h3 class="post-show__sub-title" id="sci-fi">Science fiction Romance</h3>
+
 <p>Sci-Fi Romance fuses the speculative elements of science fiction with the emotional core of romance. Picture love stories set against the backdrop of distant galaxies, futuristic societies, or even parallel dimensions. Whether it's a human falling for an alien, star-crossed lovers separated by time travel, or a romance that blooms amidst a robot uprising, the genre offers a playground for both imagination and passion.</p>
 
 <ul>
