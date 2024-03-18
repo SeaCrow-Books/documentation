@@ -1,12 +1,13 @@
 <div class="alert alert-secondary" role="alert">
   <p><a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>
   <p>Speculative romance is a genre blending the classic allure of romance with the imaginative twists of speculative fiction, creating stories where love transcends the bounds of the ordinary world, inviting readers into realms of magic, futuristic wonder, and paranormal intrigue.</p>
-    <ul>
-        <li>Fantasy Romance</li>
-        <li>Science Fiction Romance</li>
-        <li>Paranormal Romance</li>
+  <ul>
+    <li>Fantasy Romance</li>
+    <li>Science Fiction Romance</li>
+    <li>Paranormal Romance</li>
     </ul>
 </div>
+
 
 <p>If Jane Austen and J.R.R. Tolkien had a literary love child, it would be speculative romance. Just think about it—a genre that takes the timeless dance of love and attraction and elevates it with a sprinkling of magic spells, starships, or even a casual werewolf or two. Who wouldn't swipe right on that combination? The point is, traditional love stories are charming, but speculative romance is the charismatic rebel who just strolled into the room, complete with a mysterious aura and that intoxicating whiff of danger.</p>
 
@@ -183,11 +184,17 @@
 <p>What sets Sci-Fi Romance apart is its playground—the infinite cosmos of possibility. While other genres are bound by the limits of reality or traditional magic systems, sci-fi can offer a spectrum of encounters from time-travel love affairs to intergalactic liaisons. The drama scales from interpersonal to interstellar, with stakes often as colossal as saving an entire planet or civilization. No pressure, though; the focus remains on the star-crossed lovers navigating these high-octane scenarios. The unique blend of futuristic elements and the timeless theme of love makes Sci-Fi Romance not just a shooting star but a blazing comet in the romance galaxy.</p>
 
 <h3 class="post-show__title" id="space-opera-romance">Space Opera Romance</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/space-opera-romance/permanent_image" alt="Two lovers on the deck of a spaceship" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>Cue the dramatic music and heart-stopping plot twists because Space Opera Romance is the grand theater of Sci-Fi Romance. You're in for epic space battles, sweeping political drama, and love stories that are literally out of this world. This subgenre takes your average romance stakes—like earning the approval of in-laws—and amps it up to having to broker peace between warring galaxies. Now that's what I call couple goals.</p>
 
 <p>While Space Opera Romance shares its larger-than-life sensibilities with Epic Fantasy Romance, it swaps out castles and dragons for starships and wormholes. It's the panoramic, widescreen experience of romance, a swirling dance of love amidst cosmic proportions. Trendsetting in its own right, Space Opera Romance has managed to breathe fresh life into traditional romance arcs, enveloping them in stardust and universal appeal—quite literally.</p>
 
 <h3 class="post-show__title" id="alien-romance">Alien Romance</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/alien-romance/permanent_image" alt="A woman kissing an alien" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>If you're lured by the mysteries of Area 51, you'll be utterly abducted by Alien Romance. This subgenre explores romantic liaisons between humans and extraterrestrial beings—think Jack and Rose but with antennae or scales, perhaps. Intriguingly, it allows us to examine what love and attraction mean when stripped of human norms and societal expectations.</p>
 
 <p>Alien Romance often blends with Space Opera Romance, especially when our star-crossed lovers come from different corners of the universe. The thrill here lies in the complete otherness, the tantalizing stretch of the imagination as you consider whether love can indeed conquer all—even interspecies differences and light-years of distance. It’s a subgenre that plays fast and loose with biology, challenging our notions of what romance should look like, if you catch my interstellar drift.</p>
