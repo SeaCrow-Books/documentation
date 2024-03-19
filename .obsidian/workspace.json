@@ -35,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md"
               }
             }
           }
@@ -164,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba649d078c4f14a0",
+  "active": "40ca1f88e8327ff0",
   "lastOpenFiles": [
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Neutral/Bella Character Sheet - Neutral for Undercover Obsessions.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
