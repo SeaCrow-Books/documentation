@@ -67,19 +67,25 @@
 
 <h2 id="famous-and-trending-books">Famous and Trending Books</h2>
 
- <p>The Dystopian Romance genre is rich with stories that capture the imagination and hearts of readers. Here are three significant works that have left an indelible mark:</p>
-  <ul>
-    <li>
-      <strong><a href="https://www.goodreads.com/book/show/10429045-shatter-me" target="_blank">Shatter Me</a> by Tahereh Mafi:</strong> This novel introduces us to a world where touch is lethal. Juliette's curse is a metaphor for the isolation and fear that comes with being different. Mafi weaves a narrative that is as much about finding one's strength as it is about finding love in an unexpected place. The lyrical prose and complex characters set "Shatter Me" apart as a pioneering work in the genre.
-    </li>
-    <li>
-      <strong><a href="https://www.goodreads.com/book/show/10507293-the-selection" target="_blank">The Selection</a> by Kiera Cass:</strong> Set against the backdrop of a dystopian fairy tale, "The Selection" series blends traditional romance with societal critique. America Singer's journey from an ordinary girl to a resilient fighter, all while navigating the complexities of love and duty, resonates with readers looking for both escapism and substance.
-    </li>
-    <li>
-      <strong><a href="https://www.goodreads.com/book/show/13335037-divergent" target="_blank">Divergent</a> by Veronica Roth:</strong> Roth's gripping tale of choice, consequence, and courage in a divided society has become a cornerstone of young adult dystopian fiction. "Divergent" explores themes of identity and belonging, with a romance that defies societal constraints, highlighting the power of love in the face of adversity.
-    </li>
-  </ul>
-  <p>These novels, each unique in their approach to dystopian challenges and romantic entanglements, offer a glimpse into the diverse narratives that define the genre. They underscore the enduring appeal of stories that question the status quo and celebrate the enduring power of love.</p>
+ <p>The Dystopian Romance genre is rich with stories that capture the imagination and hearts of readers. These novels, each unique in their approach to dystopian challenges and romantic entanglements, offer a glimpse into the diverse narratives that define the genre. They underscore the enduring appeal of stories that question the status quo and celebrate the enduring power of love. Here are three significant works that have left an indelible mark:</p>
+ 
+      <h3><a href="https://www.goodreads.com/book/show/10429045-shatter-me" target="_blank">Shatter Me</a> by Tahereh Mafi</h3> 
+      
+      <div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/shatter-me/permanent_image" alt="Shatter Me - book cover" itemprop="contentUrl" width="350" height="200" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+      
+      <p>This novel introduces us to a world where touch is lethal. Juliette's curse is a metaphor for the isolation and fear that comes with being different. Mafi weaves a narrative that is as much about finding one's strength as it is about finding love in an unexpected place. The lyrical prose and complex characters set "Shatter Me" apart as a pioneering work in the genre.</p>
+
+      <h3><a href="https://www.goodreads.com/book/show/10507293-the-selection" target="_blank">The Selection</a> by Kiera Cass</h3> 
+      
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/the-selection/permanent_image" alt="The Selection - book cover" itemprop="contentUrl" width="350" height="200" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+      
+      <p>Set against the backdrop of a dystopian fairy tale, "The Selection" series blends traditional romance with societal critique. America Singer's journey from an ordinary girl to a resilient fighter, all while navigating the complexities of love and duty, resonates with readers looking for both escapism and substance.</p>
+
+      <h3><a href="https://www.goodreads.com/book/show/13335037-divergent" target="_blank">Divergent</a> by Veronica Roth:</h3> 
+      
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/divergent/permanent_image" alt="Divergent - book cover" itemprop="contentUrl" width="350" height="200" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+      
+      <p>Roth's gripping tale of choice, consequence, and courage in a divided society has become a cornerstone of young adult dystopian fiction. "Divergent" explores themes of identity and belonging, with a romance that defies societal constraints, highlighting the power of love in the face of adversity.</p>
 
 <h2 id="conclusion">Conclusion</h2>
 

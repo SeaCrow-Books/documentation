@@ -41,7 +41,7 @@
                     <ul>
                         <li class="table-of-contents__link-child"><a href="#space-opera-romance">Space Opera Romance</a></li>
                         <li class="table-of-contents__link-child"><a href="#alien-romance">Alien Romance</a></li>
-                        <li class="table-of-contents__link-child"><a href="#dystopian/utopian-romance">Dystopian/Utopian Romance</a></li>
+                        <li class="table-of-contents__link-child"><a href="#dystopian/utopian-romance">Dystopian Romance</a></li>
                         <li class="table-of-contents__link-child"><a href="#time-travel-romance">Time Travel Romance</a></li>
                         <li class="table-of-contents__link-child"><a href="#steampunk-romance">Steampunk Romance</a></li>
                         <li class="table-of-contents__link-child"><a href="#cyberpunk-romance">Cyberpunk Romance</a></li>
@@ -199,7 +199,10 @@
 
 <p>Alien Romance often blends with Space Opera Romance, especially when our star-crossed lovers come from different corners of the universe. The thrill here lies in the complete otherness, the tantalizing stretch of the imagination as you consider whether love can indeed conquer all—even interspecies differences and light-years of distance. It’s a subgenre that plays fast and loose with biology, challenging our notions of what romance should look like, if you catch my interstellar drift.</p>
 
-<h3 class="post-show__title" id="dystopian/utopian-romance">Dystopian/Utopian Romance</h3>
+<h3 class="post-show__title" id="dystopian/utopian-romance">Dystopian Romance</h3>
+
+<div itemscope itemtype="https://schema.org/ImageObject"> <img src="https://seacrowbooks.com/blog/image_resources/dystopian-romance/permanent_image" alt="Two lovers looking at a ruined city" itemprop="contentUrl" width="700" height="400" class="img-fluid post-show__media rounded mx-auto d-block"> <span itemprop="creator" itemtype="https://schema.org/Person" itemscope> <meta itemprop="name" content="Ben Gary" /> </span><br /> </div>
+
 <p>The world may be falling apart (or eerily perfect), but love? Oh, that's flourishing. Dystopian/Utopian Romance offers a backdrop of societal extremes, wrapping a love story around the struggle for freedom, equality, or just basic human rights. While Dystopian Romance dabbles in the darker, bleaker side of things, Utopian Romance paints an ideal world—sometimes too ideal, if you get what I mean.</p>
 
 <p>Reader reception of this subgenre has been particularly resonant, especially in a world teetering on environmental and political uncertainties. It shares DNA with Cyberpunk Romance in the way it critiques society, but instead of hacking and neon lights, we get regime change and societal overhaul. The appeal? Watching love bloom in the cracks of a broken or too-perfect world, like nature defiantly reclaiming abandoned concrete jungles.</p>
