@@ -10,13 +10,29 @@
           {
             "id": "ba649d078c4f14a0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "40ca1f88e8327ff0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
