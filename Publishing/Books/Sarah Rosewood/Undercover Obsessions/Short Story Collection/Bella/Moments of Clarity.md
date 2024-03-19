@@ -198,9 +198,14 @@ The silence between us is profound, not awkward but laden with unspoken understa
 
 "After you," he says, his voice a soft command that pulls me from my reverie. It's an offering, a gesture of chivalry that feels both timeless and entirely fitting. As I step into the elevator, guided by his hand, the reality of our ascent—a literal and metaphorical journey into the unknown—settles around me. It's a threshold, both daunting and alluring, and for the first time in a long while, I find myself not just willing but eager to cross it, led by a knight into uncharted territories that promise a fusion of vulnerability and exhilaration.
 
-kiss in the lift, she's wet and wants him
+The doors close behind us.
 
-The doors close behind us, and as we ascend, I realize that this journey might just be the escape I've been seeking—a chance to relinquish control and discover what lies beyond the facade I've meticulously maintained.
+
+
+
+
+
+and as we ascend, I realize that this journey might just be the escape I've been seeking—a chance to relinquish control and discover what lies beyond the facade I've meticulously maintained.
 
 SEX
 
