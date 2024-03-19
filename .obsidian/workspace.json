@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9ebc1b364fa046",
+        "id": "b5391908123de155",
         "type": "tabs",
         "children": [
           {
-            "id": "69581d4b13c49285",
+            "id": "ba649d078c4f14a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md",
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/AI/GPTs/GPT System Prompts.md"
+                "file": "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md"
               }
             }
           }
@@ -148,10 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69581d4b13c49285",
+  "active": "ba649d078c4f14a0",
   "lastOpenFiles": [
-    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella Short Story.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Moments of Clarity.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella/Bella Short Story - Outline.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Short Story Collection/Bella",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Neutral/Bella Character Sheet - Neutral for Undercover Obsessions.md",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Bella's Character Sheet.md",
+    "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Series Files/Character Sheets/Neutral",
+    "Publishing/AI/GPTs/GPT System Prompts.md",
     "Tasks.md",
     "GPTs/Book Writing",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Science Fiction Romance/Dystopian Romance - An In-Depth Guide.md",
@@ -178,14 +183,9 @@
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Fantasy Romance - A Genre Deep Dive.md",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Fairy Tale Romance - An In-Depth Guide.md",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Fae Romance - An In-Depth Guide.md",
-    "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Epic Fantasy Romance - An In-Depth Guide.md",
-    "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Elfpunk Romance - An In-Depth Guide.md",
-    "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance/Cozy Fantasy Romance - An In-Depth Guide.md",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Science Fiction Romance",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Paranormal Romance",
     "Marketing/Posts/Genres/Romance Fiction/Speculative Romance/Fantasy Romance",
-    "Marketing/Posts/Genres/Romance Fiction/Speculative Romance",
-    "Marketing/Posts/Genres/Romance Fiction/Sensual & Explicit Romance",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435.png",
     "Marketing/Resources/Random attachments/Pasted image 20231127104435 1.png",
     "Publishing/Books/Sarah Rosewood/Undercover Obsessions/Book 1 - The Heist/Version 2/the-heist-cover.jpg",
