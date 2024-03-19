@@ -9,3 +9,11 @@
 - [ ] **Social Media Experiment** - We need to work out how to create short video content for TikTok and Instagram.
 - [ ] **AI Plotting Tool** - Create a GPT for plotting books. This would be trained on a list of plots and perhaps use the three act structure. 
 - [ ] **SeaCrow Classics** - Add classic public domain books to the SeaCrow set up. This should be free to download but also on Kindle. Add a page that advertises SeaCrow. 
+
+
+## Publishing List
+
+- [ ] **Free Short Story Collection**
+- [ ] **The Hunt**
+- [ ] **Rico Spin Off**
+- [ ] **Harrison Spin Off** 
